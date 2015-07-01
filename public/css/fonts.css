@@ -1,0 +1,281 @@
+@font-face {
+    font-family: 'u-light';
+    src: url('../fonts/ubuntu-light-webfont.eot');
+    src: url('../fonts/ubuntu-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ubuntu-light-webfont.woff') format('woff'),
+         url('../fonts/ubuntu-light-webfont.ttf') format('truetype'),
+         url('../fonts/ubuntu-light-webfont.svg#ubuntulight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+/* END Ubuntu Light */
+
+/* BEGIN Ubuntu Light Italic */
+@font-face {
+    font-family: 'u-lighti';
+    src: url('../fonts/ubuntu-light-italic-webfont.eot');
+    src: url('../fonts/ubuntu-light-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ubuntu-light-italic-webfont.woff') format('woff'),
+         url('../fonts/ubuntu-light-italic-webfont.ttf') format('truetype'),
+         url('../fonts/ubuntu-light-italic-webfont.svg#ubuntulight_italic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+/* END Ubuntu Light Italic */
+
+/* BEGIN Ubuntu Regular */
+@font-face {
+    font-family: 'u-regular';
+    src: url('../fonts/ubuntu-regular-webfont.eot');
+    src: url('../fonts/ubuntu-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ubuntu-regular-webfont.woff') format('woff'),
+         url('../fonts/ubuntu-regular-webfont.ttf') format('truetype'),
+         url('../fonts/ubuntu-regular-webfont.svg#ubunturegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/* END Ubuntu Regular */
+
+/* BEGIN Ubuntu Regular Italic */
+@font-face {
+    font-family: 'u-regulari';
+    src: url('../fonts/ubuntu-regular-italic-webfont.eot');
+    src: url('../fonts/ubuntu-regular-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ubuntu-regular-italic-webfont.woff') format('woff'),
+         url('../fonts/ubuntu-regular-italic-webfont.ttf') format('truetype'),
+         url('../fonts/ubuntu-regular-italic-webfont.svg#ubuntuitalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+/* END Ubuntu Regular Italic */
+
+/* BEGIN Ubuntu Medium */
+@font-face {
+    font-family: 'u-medium';
+    src: url('../fonts/ubuntu-medium-webfont.eot');
+    src: url('../fonts/ubuntu-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ubuntu-medium-webfont.woff') format('woff'),
+         url('../fonts/ubuntu-medium-webfont.ttf') format('truetype'),
+         url('../fonts/ubuntu-medium-webfont.svg#ubuntumedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+/* END Ubuntu Medium */
+
+/* BEGIN Ubuntu Medium Italic */
+@font-face {
+    font-family: 'u-mediumi';
+    src: url('../fonts/ubuntu-medium-italic-webfont.eot');
+    src: url('../fonts/ubuntu-medium-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ubuntu-medium-italic-webfont.woff') format('woff'),
+         url('../fonts/ubuntu-medium-italic-webfont.ttf') format('truetype'),
+         url('../fonts/ubuntu-medium-italic-webfont.svg#ubuntumedium_italic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+/* END Ubuntu Medium Italic */
+
+/* BEGIN Ubuntu Bold */
+@font-face {
+    font-family: 'u-bold';
+    src: url('../fonts/ubuntu-bold-webfont.eot');
+    src: url('../fonts/ubuntu-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ubuntu-bold-webfont.woff') format('woff'),
+         url('../fonts/ubuntu-bold-webfont.ttf') format('truetype'),
+         url('../fonts/ubuntu-bold-webfont.svg#ubuntubold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+/* END Ubuntu Bold */
+
+/* BEGIN Ubuntu Bold Italic */
+@font-face {
+    font-family: 'u-boldi';
+    src: url('../fonts/ubuntu-bold-italic-webfont.eot');
+    src: url('../fonts/ubuntu-bold-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ubuntu-bold-italic-webfont.woff') format('woff'),
+         url('../fonts/ubuntu-bold-italic-webfont.ttf') format('truetype'),
+         url('../fonts/ubuntu-bold-italic-webfont.svg#ubuntubold_italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+/*******************************************/
+
+
+.u-bold{
+    font-family: 'u-bold' !important;
+}
+.u-regular{
+    font-family: 'u-regular' !important;
+}
+.u-light{
+    font-family: 'u-light' !important;
+}
+.u-medium{
+    font-family: 'u-medium' !important;
+}
+.link_home {
+	width: 75px;
+	padding: 7px;
+}
+.inicio img {
+	padding: 10px 0px 10px 30px;
+}
+.bloque_logo {
+	background: #FFFFFF;
+	max-width: 100% !important;
+}
+.bloque-banner {
+	border-bottom: 10px solid #008BCC;
+}
+/*ESTILOS FOUNDATION*/
+.bloque_posts h2>a, .bloque_posts h4>a{
+    color: #e2e2e2;
+    font: 12px 'u-regular';
+    line-height: 0;
+}
+.bloque_posts h4, .bloque_posts h2{
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…BoZWlnaHQ9IjEiIGZpbGw9InVybCgjZ3JhZC11Y2dnLWdlbmVyYXRlZCkiIC8+Cjwvc3ZnPg==);
+    background: -moz-linear-gradient(top,rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(0,0,0,0.7)),color-stop(100%,rgba(0,0,0,0.7)));
+    background: -webkit-linear-gradient(top,rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%);
+    background: -o-linear-gradient(top,rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%);
+    background: -ms-linear-gradient(top,rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%);
+    background: linear-gradient(to bottom,rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3000000',endColorstr='#b3000000',GradientType=0 );
+    /*bottom: 0;*/
+    position: relative;
+    width: 100%; 
+    padding: 4px 10px;
+    line-height: 12pt;
+    z-index: 999;
+    float: left;
+    margin-top: -55px;
+    height: 55px;
+}
+.ver_ahora{
+    font-size: 14px;
+    display: block;
+    color: #e2e2e2;
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+.contenido-publicacion p.leer{
+    display: none;
+}
+.contenido-publicacion p{
+    max-width: 100%;
+    display: none; /*inline-block;*/
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    vertical-align: top;
+    position: relative; 
+}
+.title-publicacion{
+    margin-bottom: 30px;
+    margin-top: 35px;
+}
+.title-publicacion h1{
+    color: #008BCC;
+    font: 2.5em 'u-regular';
+    padding-bottom: 0px;
+}
+.title-publicacion h3{
+    color: #008BCC;
+    font: 1.5em 'u-medium';
+    padding: 2px 0px;
+}
+ul.left li>a, ul.right li>a{
+    text-decoration: none !important;
+    font-family: 'u-regular';
+}
+.footer{
+    background-color: #4E4E4E !important;
+    /*border-top: 2px solid #000;*/
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+.footer p{
+    color: #efefef;
+}
+#publicaciones_sae{
+    margin-bottom: 75px;
+}
+.body-post{
+    padding: 0px 20px;
+}
+.body-post h1{
+    color: #1A1E1E;
+    font: 2.5em 'u-regular' !important;
+
+}
+.main-content .main-sidebar{
+    margin-bottom: 50px;
+}
+.searchform{
+    background: #FFFFFF !important;
+}
+.searchform input[type="text"]{ 
+    border-radius: 8px;
+    color:#1A1E1E !important;
+    font-style: normal !important;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.3);
+}
+h2.title-cat{
+    color: #1A1E1E;
+    font: 2em 'os-regular' !important;
+    margin-bottom: 24px;
+    margin-top: 32px;
+}
+.title-cat span{
+    color: #007cb1;
+}
+.latest-post p, .latest-post h2{
+    font-family: 'u-regular' !important;
+}
+.latest-post h1{
+    font: 28px 'u-bold' !important;
+}
+.op-page-header h2{
+    font-family: 'u-bold' !important;
+    text-shadow: initial !important;
+}
+
+@media (min-width: 960px){
+    .title-publicacion {
+        padding-left: 0px;
+    }
+
+}
+@media(max-width: 480px){
+    body{
+        background: #C7C6C5 !important;
+    }
+    .small-block-grid-3 > li{       
+        margin: auto !important;
+        width: 100% !important;
+    }
+    ul.pagination{
+        margin-left: 10px !important;
+    }
+    div.bloque_posts{
+        margin: auto !important;
+        width: 90% !important;
+    }
+    nav section.top-bar-section ul>li{
+        margin: auto;
+    }
+    .inicio img {
+        display: block;
+        margin: auto;
+        padding: 10px;
+    }
+    .latest-post p{
+        font-size: 15px;
+    }
+}

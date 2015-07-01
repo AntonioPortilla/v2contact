@@ -1,0 +1,23 @@
+
+@media (min-width: 980px) and (max-width: 1200px) {
+.banners-fondo{
+	/*display: none;*/
+}
+.banner_left{
+	/*border: 1px solid red !important;*/
+}
+.banner_left a{
+	background: url('images/1.gif') no-repeat #FFFFFF !important;
+	background-size: 100% !important;
+	display: block !important;
+	height: 100% !important;
+	width: 84px;
+}
+#div-gpt-ad-1360338652390-0{
+	width: 83px !important;
+	height: 600px !important;
+	float: right !important;
+	margin-right: -17px;
+}
+
+}

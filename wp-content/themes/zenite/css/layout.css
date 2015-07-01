@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+/* #Site Styles
+================================================== */
+
+html,
+body {
+	margin:0;
+	padding:0;
+	height:100%;
+	/*min-width:960px;*/
+}
+body .page.boxed {
+	width: 100%;
+	max-width: 1280px;
+	margin:0px auto;
+	overflow: hidden;
+	background: url("img/bg.jpg");
+}
+.page.boxed .wrapper_header {max-width: 1280px}
+.page {
+	min-height:100%;
+	position:relative;
+}
+
+
+/* #Page Styles
+================================================== */
+
+.content {
+	/*padding-bottom:400px;*/ /* Height of the footer */
+}
+
+.wrapper_call{
+	/*padding-bottom:551px;  Height of the footer */
+	background: #FFFFFF;
+	padding-bottom: 240px;/*400px;*/
+}
+
+.wrapper_footer {
+	position:absolute;
+	bottom:0;
+	width:100%;
+	min-height:383px; /*528px Height of the footer */
+}
+
+
+@media only screen and (min-width: 783px) and (max-width: 974px) {
+.wrapper_call{padding-bottom:385px;/*528px;*/}
+.wrapper_footer {min-height:528px;}
+}

@@ -1,0 +1,2135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zenite\n"
+"POT-Creation-Date: 2013-07-20 01:18+0100\n"
+"PO-Revision-Date: 2013-07-20 01:18+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../zenite/archive.php:38 ../zenite old versions ftp/Zenite_/archive.php:38
+#: ftp/Zenite__/archive.php:38 ftp/Zenite____/archive.php:38
+#: ftp/zenite_a/archive.php:38
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../zenite/archive.php:40 ../zenite old versions ftp/Zenite_/archive.php:40
+#: ftp/Zenite__/archive.php:40 ftp/Zenite____/archive.php:40
+#: ftp/zenite_a/archive.php:40
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../zenite/archive.php:42 ../zenite old versions ftp/Zenite_/archive.php:42
+#: ftp/Zenite__/archive.php:42 ftp/Zenite____/archive.php:42
+#: ftp/zenite_a/archive.php:42
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../zenite/archive.php:44 ../zenite old versions ftp/Zenite_/archive.php:44
+#: ftp/Zenite__/archive.php:44 ftp/Zenite____/archive.php:44
+#: ftp/zenite_a/archive.php:44
+msgid "Blog Archives"
+msgstr ""
+
+#: ../zenite/attachment.php:22 ../zenite old versions
+#: ftp/Zenite_/attachment.php:22 ftp/Zenite__/attachment.php:22
+#: ftp/Zenite____/attachment.php:22 ftp/zenite_a/attachment.php:22
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: ../zenite/attachment.php:24 ../zenite old versions
+#: ftp/Zenite_/attachment.php:24 ftp/Zenite__/attachment.php:24
+#: ftp/Zenite____/attachment.php:24 ftp/zenite_a/attachment.php:24
+#, php-format
+msgid "<span>&larr;</span> %s"
+msgstr ""
+
+#: ../zenite/attachment.php:30 ../zenite old versions
+#: ftp/Zenite_/attachment.php:30 ftp/Zenite__/attachment.php:30
+#: ftp/Zenite____/attachment.php:30 ftp/zenite_a/attachment.php:30
+#, php-format
+msgid "By %2$s"
+msgstr ""
+
+#: ../zenite/attachment.php:41 ../zenite old versions
+#: ftp/Zenite_/attachment.php:41 ftp/Zenite__/attachment.php:41
+#: ftp/Zenite____/attachment.php:41 ftp/zenite_a/attachment.php:41
+#, php-format
+msgid "Published %2$s"
+msgstr ""
+
+#: ../zenite/attachment.php:51 ../zenite old versions
+#: ftp/Zenite_/attachment.php:51 ftp/Zenite__/attachment.php:51
+#: ftp/Zenite____/attachment.php:51 ftp/zenite_a/attachment.php:51
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: ../zenite/attachment.php:54 ../zenite old versions
+#: ftp/Zenite_/attachment.php:54 ftp/Zenite__/attachment.php:54
+#: ftp/Zenite____/attachment.php:54 ftp/zenite_a/attachment.php:54
+msgid "Link to full-size image"
+msgstr ""
+
+#: ../zenite/attachment.php:61 ../zenite/attachment.php:100
+#: ../zenite/loop.php:81 ../zenite/loop.php:96 ../zenite/loop.php:123
+#: ../zenite/map.php:77 ../zenite/page.php:156 ../zenite old versions
+#: ftp/Zenite_/attachment.php:61 ftp/Zenite_/attachment.php:100
+#: ftp/Zenite_/loop.php:81 ftp/Zenite_/loop.php:96 ftp/Zenite_/loop.php:123
+#: ftp/Zenite_/map.php:77 ftp/Zenite_/page.php:134
+#: ftp/Zenite__/attachment.php:61 ftp/Zenite__/attachment.php:100
+#: ftp/Zenite__/loop.php:81 ftp/Zenite__/loop.php:96 ftp/Zenite__/loop.php:123
+#: ftp/Zenite__/map.php:77 ftp/Zenite__/page.php:134
+#: ftp/Zenite____/attachment.php:61 ftp/Zenite____/attachment.php:100
+#: ftp/Zenite____/loop.php:81 ftp/Zenite____/loop.php:96
+#: ftp/Zenite____/loop.php:123 ftp/Zenite____/map.php:77
+#: ftp/Zenite____/page.php:155 ftp/zenite_a/attachment.php:61
+#: ftp/zenite_a/attachment.php:100 ftp/zenite_a/loop.php:81
+#: ftp/zenite_a/loop.php:96 ftp/zenite_a/loop.php:123 ftp/zenite_a/map.php:77
+#: ftp/zenite_a/page.php:155
+msgid "Edit"
+msgstr ""
+
+#: ../zenite/attachment.php:96 ../zenite/loop.php:90 ../zenite/loop.php:107
+#: ../zenite old versions ftp/Zenite_/attachment.php:96
+#: ftp/Zenite_/loop.php:90 ftp/Zenite_/loop.php:107
+#: ftp/Zenite__/attachment.php:96 ftp/Zenite__/loop.php:90
+#: ftp/Zenite__/loop.php:107 ftp/Zenite____/attachment.php:96
+#: ftp/Zenite____/loop.php:90 ftp/Zenite____/loop.php:107
+#: ftp/zenite_a/attachment.php:96 ftp/zenite_a/loop.php:90
+#: ftp/zenite_a/loop.php:107
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: ../zenite/attachment.php:97 ../zenite/loop.php:108 ../zenite/map.php:76
+#: ../zenite/page.php:155 ../zenite old versions ftp/Zenite_/attachment.php:97
+#: ftp/Zenite_/loop.php:108 ftp/Zenite_/map.php:76 ftp/Zenite_/page.php:133
+#: ftp/Zenite__/attachment.php:97 ftp/Zenite__/loop.php:108
+#: ftp/Zenite__/map.php:76 ftp/Zenite__/page.php:133
+#: ftp/Zenite____/attachment.php:97 ftp/Zenite____/loop.php:108
+#: ftp/Zenite____/map.php:76 ftp/Zenite____/page.php:154
+#: ftp/zenite_a/attachment.php:97 ftp/zenite_a/loop.php:108
+#: ftp/zenite_a/map.php:76 ftp/zenite_a/page.php:154
+msgid "Pages:"
+msgstr ""
+
+#: ../zenite/author.php:32 ../zenite old versions ftp/Zenite_/author.php:32
+#: ftp/Zenite__/author.php:32 ftp/Zenite____/author.php:32
+#: ftp/zenite_a/author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../zenite/author.php:39 ../zenite old versions ftp/Zenite_/author.php:39
+#: ftp/Zenite__/author.php:39 ftp/Zenite____/author.php:39
+#: ftp/zenite_a/author.php:39
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../zenite/category.php:22 ../zenite/taxonomy-portfolio_category.php:21
+#: ../zenite/taxonomy.php:21 ../zenite old versions
+#: ftp/Zenite_/category.php:22 ftp/Zenite_/taxonomy-portfolio_category.php:21
+#: ftp/Zenite_/taxonomy.php:21 ftp/Zenite__/category.php:22
+#: ftp/Zenite__/taxonomy-portfolio_category.php:21
+#: ftp/Zenite__/taxonomy.php:21 ftp/Zenite____/category.php:22
+#: ftp/Zenite____/taxonomy-portfolio_category.php:21
+#: ftp/Zenite____/taxonomy.php:21 ftp/zenite_a/category.php:22
+#: ftp/zenite_a/taxonomy-portfolio_category.php:21
+#: ftp/zenite_a/taxonomy.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../zenite/comments.php:17 ../zenite old versions
+#: ftp/Zenite_/comments.php:17 ftp/Zenite__/comments.php:17
+#: ftp/Zenite____/comments.php:17 ftp/zenite_a/comments.php:17
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../zenite/contact-form.php:116
+msgid "Contact with us!"
+msgstr ""
+
+#: ../zenite/footer.php:53
+msgid "Call us!"
+msgstr ""
+
+#: ../zenite/loop.php:24 ../zenite/loop.php:133 ../zenite old versions
+#: ftp/Zenite_/loop.php:24 ftp/Zenite_/loop.php:133 ftp/Zenite__/loop.php:24
+#: ftp/Zenite__/loop.php:133 ftp/Zenite____/loop.php:24
+#: ftp/Zenite____/loop.php:133 ftp/zenite_a/loop.php:24
+#: ftp/zenite_a/loop.php:133
+msgid "&larr; Older posts"
+msgstr ""
+
+#: ../zenite/loop.php:25 ../zenite/loop.php:134 ../zenite old versions
+#: ftp/Zenite_/loop.php:25 ftp/Zenite_/loop.php:134 ftp/Zenite__/loop.php:25
+#: ftp/Zenite__/loop.php:134 ftp/Zenite____/loop.php:25
+#: ftp/Zenite____/loop.php:134 ftp/zenite_a/loop.php:25
+#: ftp/zenite_a/loop.php:134
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: ../zenite/loop.php:30 ../zenite old versions ftp/Zenite_/loop.php:30
+#: ftp/Zenite__/loop.php:30 ftp/Zenite____/loop.php:30
+#: ftp/zenite_a/loop.php:30
+msgid "Not Found"
+msgstr ""
+
+#: ../zenite/loop.php:31 ../zenite old versions ftp/Zenite_/loop.php:31
+#: ftp/Zenite__/loop.php:31 ftp/Zenite____/loop.php:31
+#: ftp/zenite_a/loop.php:31
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: ../zenite/loop.php:70 ../zenite old versions ftp/Zenite_/loop.php:70
+#: ftp/Zenite__/loop.php:70 ftp/Zenite____/loop.php:70
+#: ftp/zenite_a/loop.php:70
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr ""
+
+#: ../zenite/loop.php:78 ../zenite old versions ftp/Zenite_/loop.php:78
+#: ftp/Zenite__/loop.php:78 ftp/Zenite____/loop.php:78
+#: ftp/zenite_a/loop.php:78
+msgid "More Galleries"
+msgstr ""
+
+#: ../zenite/loop.php:80 ../zenite/loop.php:95 ../zenite/loop.php:122
+#: ../zenite old versions ftp/Zenite_/loop.php:80 ftp/Zenite_/loop.php:95
+#: ftp/Zenite_/loop.php:122 ftp/Zenite__/loop.php:80 ftp/Zenite__/loop.php:95
+#: ftp/Zenite__/loop.php:122 ftp/Zenite____/loop.php:80
+#: ftp/Zenite____/loop.php:95 ftp/Zenite____/loop.php:122
+#: ftp/zenite_a/loop.php:80 ftp/zenite_a/loop.php:95 ftp/zenite_a/loop.php:122
+msgid "Leave a comment"
+msgstr ""
+
+#: ../zenite/loop.php:80 ../zenite/loop.php:95 ../zenite/loop.php:122
+#: ../zenite old versions ftp/Zenite_/loop.php:80 ftp/Zenite_/loop.php:95
+#: ftp/Zenite_/loop.php:122 ftp/Zenite__/loop.php:80 ftp/Zenite__/loop.php:95
+#: ftp/Zenite__/loop.php:122 ftp/Zenite____/loop.php:80
+#: ftp/Zenite____/loop.php:95 ftp/Zenite____/loop.php:122
+#: ftp/zenite_a/loop.php:80 ftp/zenite_a/loop.php:95 ftp/zenite_a/loop.php:122
+msgid "1 Comment"
+msgstr ""
+
+#: ../zenite/loop.php:80 ../zenite/loop.php:95 ../zenite/loop.php:122
+#: ../zenite old versions ftp/Zenite_/loop.php:80 ftp/Zenite_/loop.php:95
+#: ftp/Zenite_/loop.php:122 ftp/Zenite__/loop.php:80 ftp/Zenite__/loop.php:95
+#: ftp/Zenite__/loop.php:122 ftp/Zenite____/loop.php:80
+#: ftp/Zenite____/loop.php:95 ftp/Zenite____/loop.php:122
+#: ftp/zenite_a/loop.php:80 ftp/zenite_a/loop.php:95 ftp/zenite_a/loop.php:122
+msgid "% Comments"
+msgstr ""
+
+#: ../zenite/loop.php:112 ../zenite old versions ftp/Zenite_/loop.php:112
+#: ftp/Zenite__/loop.php:112 ftp/Zenite____/loop.php:112
+#: ftp/zenite_a/loop.php:112
+#, php-format
+msgid "Posted in %2$s"
+msgstr ""
+
+#: ../zenite/loop.php:119 ../zenite old versions ftp/Zenite_/loop.php:119
+#: ftp/Zenite__/loop.php:119 ftp/Zenite____/loop.php:119
+#: ftp/zenite_a/loop.php:119
+#, php-format
+msgid "Tagged %2$s"
+msgstr ""
+
+#: ../zenite/search.php:21 ../zenite old versions ftp/Zenite_/search.php:21
+#: ftp/Zenite__/search.php:21 ftp/Zenite____/search.php:21
+#: ftp/zenite_a/search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../zenite/search.php:30 ../zenite old versions ftp/Zenite_/search.php:30
+#: ftp/Zenite__/search.php:30 ftp/Zenite____/search.php:30
+#: ftp/zenite_a/search.php:30
+msgid "Nothing Found"
+msgstr ""
+
+#: ../zenite/search.php:31 ../zenite old versions ftp/Zenite_/search.php:31
+#: ftp/Zenite__/search.php:31 ftp/Zenite____/search.php:31
+#: ftp/zenite_a/search.php:31
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../zenite/sidebar.php:26 ../zenite old versions ftp/Zenite_/sidebar.php:26
+#: ftp/Zenite__/sidebar.php:26 ftp/Zenite____/sidebar.php:26
+#: ftp/zenite_a/sidebar.php:26
+msgid "Archives"
+msgstr ""
+
+#: ../zenite/sidebar.php:33 ../zenite old versions ftp/Zenite_/sidebar.php:33
+#: ftp/Zenite__/sidebar.php:33 ftp/Zenite____/sidebar.php:33
+#: ftp/zenite_a/sidebar.php:33
+msgid "Meta"
+msgstr ""
+
+#: ../zenite/tag.php:21 ../zenite old versions ftp/Zenite_/tag.php:21
+#: ftp/Zenite__/tag.php:21 ftp/Zenite____/tag.php:21 ftp/zenite_a/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:164
+#: ../zenite/functions/admin/plugins.php:87 ../zenite old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:164
+#: ftp/zenite_a/functions/admin/plugins.php:87
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:165
+#: ../zenite/functions/admin/plugins.php:88 ../zenite old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:165
+#: ftp/zenite_a/functions/admin/plugins.php:88
+msgid "Install Plugins"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:166
+#: ../zenite/functions/admin/plugins.php:89 ../zenite old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:166
+#: ftp/zenite_a/functions/admin/plugins.php:89
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:167 ../zenite old
+#: versions ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:178
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:490
+#: ../zenite/functions/admin/plugins.php:101 ../zenite old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:178
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:490
+#: ftp/zenite_a/functions/admin/plugins.php:101
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:179
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1846
+#: ../zenite/functions/admin/plugins.php:102 ../zenite old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:179
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1846
+#: ftp/zenite_a/functions/admin/plugins.php:102
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:180 ../zenite old
+#: versions ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:517
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:2058 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:517
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:545 ../zenite old
+#: versions ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:704 ../zenite old
+#: versions ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1091 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1096 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1099 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1103 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1106 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1106 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1109 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1111 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1281 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1297 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1298 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1299 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1300 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1318 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1319 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1829 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1830 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1831 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1832 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1833 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1834 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1845 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1955 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1956 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1956
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1965 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1956
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1956
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1965 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1956
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1957 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1958 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1962 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1963 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1964 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1965 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1966 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../zenite/functions/admin/class-tgm-plugin-activation.php:1967 ../zenite
+#: old versions
+#: ftp/zenite_a/functions/admin/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:145 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:142
+#: ftp/Zenite__/functions/admin/main.php:142
+#: ftp/Zenite____/functions/admin/main.php:142
+#: ftp/zenite_a/functions/admin/main.php:142
+msgid "Starkers"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:207 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:204
+#: ftp/Zenite__/functions/admin/main.php:204
+#: ftp/Zenite____/functions/admin/main.php:204
+#: ftp/zenite_a/functions/admin/main.php:204
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:210
+#: ../zenite/functions/admin/main.php:227 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:207
+#: ftp/Zenite_/functions/admin/main.php:224
+#: ftp/Zenite__/functions/admin/main.php:207
+#: ftp/Zenite__/functions/admin/main.php:224
+#: ftp/Zenite____/functions/admin/main.php:207
+#: ftp/Zenite____/functions/admin/main.php:224
+#: ftp/zenite_a/functions/admin/main.php:207
+#: ftp/zenite_a/functions/admin/main.php:224
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:269 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:266
+#: ftp/Zenite__/functions/admin/main.php:266
+#: ftp/Zenite____/functions/admin/main.php:266
+#: ftp/zenite_a/functions/admin/main.php:266
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:336 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:333
+#: ftp/Zenite__/functions/admin/main.php:333
+#: ftp/Zenite____/functions/admin/main.php:333
+#: ftp/zenite_a/functions/admin/main.php:333
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:339 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:336
+#: ftp/Zenite__/functions/admin/main.php:336
+#: ftp/Zenite____/functions/admin/main.php:336
+#: ftp/zenite_a/functions/admin/main.php:336
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:346 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:343
+#: ftp/Zenite__/functions/admin/main.php:343
+#: ftp/Zenite____/functions/admin/main.php:343
+#: ftp/zenite_a/functions/admin/main.php:343
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:346
+#: ../zenite/functions/admin/main.php:363 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:343
+#: ftp/Zenite_/functions/admin/main.php:360
+#: ftp/Zenite__/functions/admin/main.php:343
+#: ftp/Zenite__/functions/admin/main.php:360
+#: ftp/Zenite____/functions/admin/main.php:343
+#: ftp/Zenite____/functions/admin/main.php:360
+#: ftp/zenite_a/functions/admin/main.php:343
+#: ftp/zenite_a/functions/admin/main.php:360
+msgid "(Edit)"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:363 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:360
+#: ftp/Zenite__/functions/admin/main.php:360
+#: ftp/Zenite____/functions/admin/main.php:360
+#: ftp/zenite_a/functions/admin/main.php:360
+msgid "Pingback:"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:382 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:379
+#: ftp/Zenite__/functions/admin/main.php:379
+#: ftp/Zenite____/functions/admin/main.php:379
+#: ftp/zenite_a/functions/admin/main.php:379
+msgid "Primary Widget Area"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:384 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:381
+#: ftp/Zenite__/functions/admin/main.php:381
+#: ftp/Zenite____/functions/admin/main.php:381
+#: ftp/zenite_a/functions/admin/main.php:381
+msgid "The primary widget area"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:393 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:390
+#: ftp/Zenite__/functions/admin/main.php:390
+#: ftp/Zenite____/functions/admin/main.php:390
+#: ftp/zenite_a/functions/admin/main.php:390
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:395 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:392
+#: ftp/Zenite__/functions/admin/main.php:392
+#: ftp/Zenite____/functions/admin/main.php:392
+#: ftp/zenite_a/functions/admin/main.php:392
+msgid "The secondary widget area"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:404 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:401
+#: ftp/Zenite__/functions/admin/main.php:401
+#: ftp/Zenite____/functions/admin/main.php:401
+#: ftp/zenite_a/functions/admin/main.php:401
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:406 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:403
+#: ftp/Zenite__/functions/admin/main.php:403
+#: ftp/Zenite____/functions/admin/main.php:403
+#: ftp/zenite_a/functions/admin/main.php:403
+msgid "The first footer widget area"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:415 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:412
+#: ftp/Zenite__/functions/admin/main.php:412
+#: ftp/Zenite____/functions/admin/main.php:412
+#: ftp/zenite_a/functions/admin/main.php:412
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:417 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:414
+#: ftp/Zenite__/functions/admin/main.php:414
+#: ftp/Zenite____/functions/admin/main.php:414
+#: ftp/zenite_a/functions/admin/main.php:414
+msgid "The second footer widget area"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:426 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:423
+#: ftp/Zenite__/functions/admin/main.php:423
+#: ftp/Zenite____/functions/admin/main.php:423
+#: ftp/zenite_a/functions/admin/main.php:423
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:428 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:425
+#: ftp/Zenite__/functions/admin/main.php:425
+#: ftp/Zenite____/functions/admin/main.php:425
+#: ftp/zenite_a/functions/admin/main.php:425
+msgid "The third footer widget area"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:460 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:457
+#: ftp/Zenite__/functions/admin/main.php:457
+#: ftp/Zenite____/functions/admin/main.php:457
+#: ftp/zenite_a/functions/admin/main.php:457
+#, php-format
+msgid ""
+"<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</"
+"span> %3$s"
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:486 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:483
+#: ftp/Zenite__/functions/admin/main.php:483
+#: ftp/Zenite____/functions/admin/main.php:483
+#: ftp/zenite_a/functions/admin/main.php:483
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:488 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:485
+#: ftp/Zenite__/functions/admin/main.php:485
+#: ftp/Zenite____/functions/admin/main.php:485
+#: ftp/zenite_a/functions/admin/main.php:485
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../zenite/functions/admin/main.php:490 ../zenite old versions
+#: ftp/Zenite_/functions/admin/main.php:487
+#: ftp/Zenite__/functions/admin/main.php:487
+#: ftp/Zenite____/functions/admin/main.php:487
+#: ftp/zenite_a/functions/admin/main.php:487
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:35 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:35
+#: ftp/Zenite__/functions/admin/nhp-options.php:35
+#: ftp/Zenite____/functions/admin/nhp-options.php:35
+#: ftp/zenite_a/functions/admin/nhp-options.php:35
+msgid "<p>Complete theme options</p>"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:50 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:50
+#: ftp/Zenite__/functions/admin/nhp-options.php:50
+#: ftp/Zenite____/functions/admin/nhp-options.php:50
+#: ftp/zenite_a/functions/admin/nhp-options.php:50
+msgid "Zenite Options"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:53 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:53
+#: ftp/Zenite__/functions/admin/nhp-options.php:53
+#: ftp/Zenite____/functions/admin/nhp-options.php:53
+#: ftp/zenite_a/functions/admin/nhp-options.php:53
+msgid "Zenite Theme Options"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:83 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:83
+#: ftp/Zenite__/functions/admin/nhp-options.php:83
+#: ftp/Zenite____/functions/admin/nhp-options.php:83
+#: ftp/zenite_a/functions/admin/nhp-options.php:83
+msgid "General settings"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:84 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:84
+#: ftp/Zenite__/functions/admin/nhp-options.php:84
+#: ftp/Zenite____/functions/admin/nhp-options.php:84
+#: ftp/zenite_a/functions/admin/nhp-options.php:84
+msgid "<p class=\"description\">General theme settings</p>"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:94 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:94
+#: ftp/Zenite__/functions/admin/nhp-options.php:94
+#: ftp/Zenite____/functions/admin/nhp-options.php:94
+#: ftp/zenite_a/functions/admin/nhp-options.php:94
+msgid "Logo"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:95 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:95
+#: ftp/Zenite__/functions/admin/nhp-options.php:95
+#: ftp/Zenite____/functions/admin/nhp-options.php:95
+#: ftp/zenite_a/functions/admin/nhp-options.php:95
+msgid "Upload your own logo"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:96 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:96
+#: ftp/Zenite__/functions/admin/nhp-options.php:96
+#: ftp/Zenite____/functions/admin/nhp-options.php:96
+#: ftp/zenite_a/functions/admin/nhp-options.php:96
+msgid "Upload PNG transparent file"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:103 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:103
+#: ftp/Zenite____/functions/admin/nhp-options.php:103
+#: ftp/zenite_a/functions/admin/nhp-options.php:103
+msgid "Color"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:104 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:104
+#: ftp/Zenite____/functions/admin/nhp-options.php:104
+#: ftp/zenite_a/functions/admin/nhp-options.php:104
+msgid "Choose your color"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:105 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:105
+#: ftp/Zenite____/functions/admin/nhp-options.php:105
+#: ftp/zenite_a/functions/admin/nhp-options.php:105
+msgid "Select the desired color"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:106 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:106
+#: ftp/Zenite____/functions/admin/nhp-options.php:106
+#: ftp/zenite_a/functions/admin/nhp-options.php:106
+msgid "Blue"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:106 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:106
+#: ftp/Zenite____/functions/admin/nhp-options.php:106
+#: ftp/zenite_a/functions/admin/nhp-options.php:106
+msgid "Yellow"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:106 ../zenite old versions
+#: ftp/zenite_a/functions/admin/nhp-options.php:106
+msgid "Red"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:106 ../zenite old versions
+#: ftp/zenite_a/functions/admin/nhp-options.php:106
+msgid "Purple"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:106 ../zenite old versions
+#: ftp/zenite_a/functions/admin/nhp-options.php:106
+msgid "Pink"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:106 ../zenite old versions
+#: ftp/zenite_a/functions/admin/nhp-options.php:106
+msgid "Green"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:106 ../zenite old versions
+#: ftp/zenite_a/functions/admin/nhp-options.php:106
+msgid "Teal"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:106 ../zenite old versions
+#: ftp/zenite_a/functions/admin/nhp-options.php:106
+msgid "Orange"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:113 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:113
+#: ftp/Zenite____/functions/admin/nhp-options.php:113
+#: ftp/zenite_a/functions/admin/nhp-options.php:113
+msgid "White header"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:114 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:114
+#: ftp/Zenite____/functions/admin/nhp-options.php:114
+#: ftp/zenite_a/functions/admin/nhp-options.php:114
+msgid "Alternative version of black header"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:115 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:115
+#: ftp/Zenite____/functions/admin/nhp-options.php:115
+#: ftp/zenite_a/functions/admin/nhp-options.php:115
+msgid "White Header"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:124 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:124
+#: ftp/Zenite__/functions/admin/nhp-options.php:105
+#: ftp/Zenite____/functions/admin/nhp-options.php:124
+#: ftp/zenite_a/functions/admin/nhp-options.php:124
+msgid "Module 1"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:125 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:125
+#: ftp/Zenite__/functions/admin/nhp-options.php:106
+#: ftp/Zenite____/functions/admin/nhp-options.php:125
+#: ftp/zenite_a/functions/admin/nhp-options.php:125
+msgid "<p class=\"description\">Home module #1</p>"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:130 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:130
+#: ftp/Zenite__/functions/admin/nhp-options.php:111
+#: ftp/Zenite____/functions/admin/nhp-options.php:130
+#: ftp/zenite_a/functions/admin/nhp-options.php:130
+msgid "Column 1 image"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:131
+#: ../zenite/functions/admin/nhp-options.php:191
+#: ../zenite/functions/admin/nhp-options.php:251
+#: ../zenite/functions/admin/nhp-options.php:311 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:131
+#: ftp/Zenite_/functions/admin/nhp-options.php:191
+#: ftp/Zenite_/functions/admin/nhp-options.php:251
+#: ftp/Zenite_/functions/admin/nhp-options.php:311
+#: ftp/Zenite__/functions/admin/nhp-options.php:112
+#: ftp/Zenite__/functions/admin/nhp-options.php:172
+#: ftp/Zenite__/functions/admin/nhp-options.php:232
+#: ftp/Zenite__/functions/admin/nhp-options.php:292
+#: ftp/Zenite____/functions/admin/nhp-options.php:131
+#: ftp/Zenite____/functions/admin/nhp-options.php:191
+#: ftp/Zenite____/functions/admin/nhp-options.php:251
+#: ftp/Zenite____/functions/admin/nhp-options.php:311
+#: ftp/zenite_a/functions/admin/nhp-options.php:131
+#: ftp/zenite_a/functions/admin/nhp-options.php:191
+#: ftp/zenite_a/functions/admin/nhp-options.php:251
+#: ftp/zenite_a/functions/admin/nhp-options.php:311
+msgid "Size: 400x240px"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:137 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:137
+#: ftp/Zenite__/functions/admin/nhp-options.php:118
+#: ftp/Zenite____/functions/admin/nhp-options.php:137
+#: ftp/zenite_a/functions/admin/nhp-options.php:137
+msgid "Column 1 title"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:138
+#: ../zenite/functions/admin/nhp-options.php:198
+#: ../zenite/functions/admin/nhp-options.php:258
+#: ../zenite/functions/admin/nhp-options.php:318 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:138
+#: ftp/Zenite_/functions/admin/nhp-options.php:198
+#: ftp/Zenite_/functions/admin/nhp-options.php:258
+#: ftp/Zenite_/functions/admin/nhp-options.php:318
+#: ftp/Zenite__/functions/admin/nhp-options.php:119
+#: ftp/Zenite__/functions/admin/nhp-options.php:179
+#: ftp/Zenite__/functions/admin/nhp-options.php:239
+#: ftp/Zenite__/functions/admin/nhp-options.php:299
+#: ftp/Zenite____/functions/admin/nhp-options.php:138
+#: ftp/Zenite____/functions/admin/nhp-options.php:198
+#: ftp/Zenite____/functions/admin/nhp-options.php:258
+#: ftp/Zenite____/functions/admin/nhp-options.php:318
+#: ftp/zenite_a/functions/admin/nhp-options.php:138
+#: ftp/zenite_a/functions/admin/nhp-options.php:198
+#: ftp/zenite_a/functions/admin/nhp-options.php:258
+#: ftp/zenite_a/functions/admin/nhp-options.php:318
+msgid "You decide."
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:144 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:144
+#: ftp/Zenite__/functions/admin/nhp-options.php:125
+#: ftp/Zenite____/functions/admin/nhp-options.php:144
+#: ftp/zenite_a/functions/admin/nhp-options.php:144
+msgid "Column 1 text"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:150 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:150
+#: ftp/Zenite__/functions/admin/nhp-options.php:131
+#: ftp/Zenite____/functions/admin/nhp-options.php:150
+#: ftp/zenite_a/functions/admin/nhp-options.php:150
+msgid "Column 1 link"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:151
+#: ../zenite/functions/admin/nhp-options.php:211
+#: ../zenite/functions/admin/nhp-options.php:271
+#: ../zenite/functions/admin/nhp-options.php:331 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:151
+#: ftp/Zenite_/functions/admin/nhp-options.php:211
+#: ftp/Zenite_/functions/admin/nhp-options.php:271
+#: ftp/Zenite_/functions/admin/nhp-options.php:331
+#: ftp/Zenite__/functions/admin/nhp-options.php:132
+#: ftp/Zenite__/functions/admin/nhp-options.php:192
+#: ftp/Zenite__/functions/admin/nhp-options.php:252
+#: ftp/Zenite__/functions/admin/nhp-options.php:312
+#: ftp/Zenite____/functions/admin/nhp-options.php:151
+#: ftp/Zenite____/functions/admin/nhp-options.php:211
+#: ftp/Zenite____/functions/admin/nhp-options.php:271
+#: ftp/Zenite____/functions/admin/nhp-options.php:331
+#: ftp/zenite_a/functions/admin/nhp-options.php:151
+#: ftp/zenite_a/functions/admin/nhp-options.php:211
+#: ftp/zenite_a/functions/admin/nhp-options.php:271
+#: ftp/zenite_a/functions/admin/nhp-options.php:331
+msgid "URL"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:157
+#: ../zenite/functions/admin/nhp-options.php:163
+#: ../zenite/functions/admin/nhp-options.php:217
+#: ../zenite/functions/admin/nhp-options.php:223
+#: ../zenite/functions/admin/nhp-options.php:277
+#: ../zenite/functions/admin/nhp-options.php:283
+#: ../zenite/functions/admin/nhp-options.php:337
+#: ../zenite/functions/admin/nhp-options.php:343 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:157
+#: ftp/Zenite_/functions/admin/nhp-options.php:163
+#: ftp/Zenite_/functions/admin/nhp-options.php:217
+#: ftp/Zenite_/functions/admin/nhp-options.php:223
+#: ftp/Zenite_/functions/admin/nhp-options.php:277
+#: ftp/Zenite_/functions/admin/nhp-options.php:283
+#: ftp/Zenite_/functions/admin/nhp-options.php:337
+#: ftp/Zenite_/functions/admin/nhp-options.php:343
+#: ftp/Zenite__/functions/admin/nhp-options.php:138
+#: ftp/Zenite__/functions/admin/nhp-options.php:144
+#: ftp/Zenite__/functions/admin/nhp-options.php:198
+#: ftp/Zenite__/functions/admin/nhp-options.php:204
+#: ftp/Zenite__/functions/admin/nhp-options.php:258
+#: ftp/Zenite__/functions/admin/nhp-options.php:264
+#: ftp/Zenite__/functions/admin/nhp-options.php:318
+#: ftp/Zenite__/functions/admin/nhp-options.php:324
+#: ftp/Zenite____/functions/admin/nhp-options.php:157
+#: ftp/Zenite____/functions/admin/nhp-options.php:163
+#: ftp/Zenite____/functions/admin/nhp-options.php:217
+#: ftp/Zenite____/functions/admin/nhp-options.php:223
+#: ftp/Zenite____/functions/admin/nhp-options.php:277
+#: ftp/Zenite____/functions/admin/nhp-options.php:283
+#: ftp/Zenite____/functions/admin/nhp-options.php:337
+#: ftp/Zenite____/functions/admin/nhp-options.php:343
+#: ftp/zenite_a/functions/admin/nhp-options.php:157
+#: ftp/zenite_a/functions/admin/nhp-options.php:163
+#: ftp/zenite_a/functions/admin/nhp-options.php:217
+#: ftp/zenite_a/functions/admin/nhp-options.php:223
+#: ftp/zenite_a/functions/admin/nhp-options.php:277
+#: ftp/zenite_a/functions/admin/nhp-options.php:283
+#: ftp/zenite_a/functions/admin/nhp-options.php:337
+#: ftp/zenite_a/functions/admin/nhp-options.php:343
+msgid "Rollover title"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:169
+#: ../zenite/functions/admin/nhp-options.php:229
+#: ../zenite/functions/admin/nhp-options.php:289
+#: ../zenite/functions/admin/nhp-options.php:349 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:169
+#: ftp/Zenite_/functions/admin/nhp-options.php:229
+#: ftp/Zenite_/functions/admin/nhp-options.php:289
+#: ftp/Zenite_/functions/admin/nhp-options.php:349
+#: ftp/Zenite__/functions/admin/nhp-options.php:150
+#: ftp/Zenite__/functions/admin/nhp-options.php:210
+#: ftp/Zenite__/functions/admin/nhp-options.php:270
+#: ftp/Zenite__/functions/admin/nhp-options.php:330
+#: ftp/Zenite____/functions/admin/nhp-options.php:169
+#: ftp/Zenite____/functions/admin/nhp-options.php:229
+#: ftp/Zenite____/functions/admin/nhp-options.php:289
+#: ftp/Zenite____/functions/admin/nhp-options.php:349
+#: ftp/zenite_a/functions/admin/nhp-options.php:169
+#: ftp/zenite_a/functions/admin/nhp-options.php:229
+#: ftp/zenite_a/functions/admin/nhp-options.php:289
+#: ftp/zenite_a/functions/admin/nhp-options.php:349
+msgid "Rollover image"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:170
+#: ../zenite/functions/admin/nhp-options.php:230
+#: ../zenite/functions/admin/nhp-options.php:290
+#: ../zenite/functions/admin/nhp-options.php:350 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:170
+#: ftp/Zenite_/functions/admin/nhp-options.php:230
+#: ftp/Zenite_/functions/admin/nhp-options.php:290
+#: ftp/Zenite_/functions/admin/nhp-options.php:350
+#: ftp/Zenite__/functions/admin/nhp-options.php:151
+#: ftp/Zenite__/functions/admin/nhp-options.php:211
+#: ftp/Zenite__/functions/admin/nhp-options.php:271
+#: ftp/Zenite__/functions/admin/nhp-options.php:331
+#: ftp/Zenite____/functions/admin/nhp-options.php:170
+#: ftp/Zenite____/functions/admin/nhp-options.php:230
+#: ftp/Zenite____/functions/admin/nhp-options.php:290
+#: ftp/Zenite____/functions/admin/nhp-options.php:350
+#: ftp/zenite_a/functions/admin/nhp-options.php:170
+#: ftp/zenite_a/functions/admin/nhp-options.php:230
+#: ftp/zenite_a/functions/admin/nhp-options.php:290
+#: ftp/zenite_a/functions/admin/nhp-options.php:350
+msgid "Size: 133x150px"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:176
+#: ../zenite/functions/admin/nhp-options.php:236
+#: ../zenite/functions/admin/nhp-options.php:296
+#: ../zenite/functions/admin/nhp-options.php:356 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:176
+#: ftp/Zenite_/functions/admin/nhp-options.php:236
+#: ftp/Zenite_/functions/admin/nhp-options.php:296
+#: ftp/Zenite_/functions/admin/nhp-options.php:356
+#: ftp/Zenite__/functions/admin/nhp-options.php:157
+#: ftp/Zenite__/functions/admin/nhp-options.php:217
+#: ftp/Zenite__/functions/admin/nhp-options.php:277
+#: ftp/Zenite__/functions/admin/nhp-options.php:337
+#: ftp/Zenite____/functions/admin/nhp-options.php:176
+#: ftp/Zenite____/functions/admin/nhp-options.php:236
+#: ftp/Zenite____/functions/admin/nhp-options.php:296
+#: ftp/Zenite____/functions/admin/nhp-options.php:356
+#: ftp/zenite_a/functions/admin/nhp-options.php:176
+#: ftp/zenite_a/functions/admin/nhp-options.php:236
+#: ftp/zenite_a/functions/admin/nhp-options.php:296
+#: ftp/zenite_a/functions/admin/nhp-options.php:356
+msgid "Rollover icon"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:177
+#: ../zenite/functions/admin/nhp-options.php:237
+#: ../zenite/functions/admin/nhp-options.php:297
+#: ../zenite/functions/admin/nhp-options.php:357 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:177
+#: ftp/Zenite_/functions/admin/nhp-options.php:237
+#: ftp/Zenite_/functions/admin/nhp-options.php:297
+#: ftp/Zenite_/functions/admin/nhp-options.php:357
+#: ftp/Zenite__/functions/admin/nhp-options.php:158
+#: ftp/Zenite__/functions/admin/nhp-options.php:218
+#: ftp/Zenite__/functions/admin/nhp-options.php:278
+#: ftp/Zenite__/functions/admin/nhp-options.php:338
+#: ftp/Zenite____/functions/admin/nhp-options.php:177
+#: ftp/Zenite____/functions/admin/nhp-options.php:237
+#: ftp/Zenite____/functions/admin/nhp-options.php:297
+#: ftp/Zenite____/functions/admin/nhp-options.php:357
+#: ftp/zenite_a/functions/admin/nhp-options.php:177
+#: ftp/zenite_a/functions/admin/nhp-options.php:237
+#: ftp/zenite_a/functions/admin/nhp-options.php:297
+#: ftp/zenite_a/functions/admin/nhp-options.php:357
+msgid "Size: 55x55px"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:184 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:184
+#: ftp/Zenite__/functions/admin/nhp-options.php:165
+#: ftp/Zenite____/functions/admin/nhp-options.php:184
+#: ftp/zenite_a/functions/admin/nhp-options.php:184
+msgid "Module 2"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:185 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:185
+#: ftp/Zenite__/functions/admin/nhp-options.php:166
+#: ftp/Zenite____/functions/admin/nhp-options.php:185
+#: ftp/zenite_a/functions/admin/nhp-options.php:185
+msgid "<p class=\"description\">Home module #2</p>"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:190 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:190
+#: ftp/Zenite__/functions/admin/nhp-options.php:171
+#: ftp/Zenite____/functions/admin/nhp-options.php:190
+#: ftp/zenite_a/functions/admin/nhp-options.php:190
+msgid "Column 2 image"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:197 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:197
+#: ftp/Zenite__/functions/admin/nhp-options.php:178
+#: ftp/Zenite____/functions/admin/nhp-options.php:197
+#: ftp/zenite_a/functions/admin/nhp-options.php:197
+msgid "Column 2 title"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:204 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:204
+#: ftp/Zenite__/functions/admin/nhp-options.php:185
+#: ftp/Zenite____/functions/admin/nhp-options.php:204
+#: ftp/zenite_a/functions/admin/nhp-options.php:204
+msgid "Column 2 text"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:210 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:210
+#: ftp/Zenite__/functions/admin/nhp-options.php:191
+#: ftp/Zenite____/functions/admin/nhp-options.php:210
+#: ftp/zenite_a/functions/admin/nhp-options.php:210
+msgid "Column 2 link"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:244 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:244
+#: ftp/Zenite__/functions/admin/nhp-options.php:225
+#: ftp/Zenite____/functions/admin/nhp-options.php:244
+#: ftp/zenite_a/functions/admin/nhp-options.php:244
+msgid "Module 3"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:245 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:245
+#: ftp/Zenite__/functions/admin/nhp-options.php:226
+#: ftp/Zenite____/functions/admin/nhp-options.php:245
+#: ftp/zenite_a/functions/admin/nhp-options.php:245
+msgid "<p class=\"description\">Home module #3</p>"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:250 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:250
+#: ftp/Zenite__/functions/admin/nhp-options.php:231
+#: ftp/Zenite____/functions/admin/nhp-options.php:250
+#: ftp/zenite_a/functions/admin/nhp-options.php:250
+msgid "Column 3 image"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:257 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:257
+#: ftp/Zenite__/functions/admin/nhp-options.php:238
+#: ftp/Zenite____/functions/admin/nhp-options.php:257
+#: ftp/zenite_a/functions/admin/nhp-options.php:257
+msgid "Column 3 title"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:264 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:264
+#: ftp/Zenite__/functions/admin/nhp-options.php:245
+#: ftp/Zenite____/functions/admin/nhp-options.php:264
+#: ftp/zenite_a/functions/admin/nhp-options.php:264
+msgid "Column 3 text"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:270 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:270
+#: ftp/Zenite__/functions/admin/nhp-options.php:251
+#: ftp/Zenite____/functions/admin/nhp-options.php:270
+#: ftp/zenite_a/functions/admin/nhp-options.php:270
+msgid "Column 3 link"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:304 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:304
+#: ftp/Zenite__/functions/admin/nhp-options.php:285
+#: ftp/Zenite____/functions/admin/nhp-options.php:304
+#: ftp/zenite_a/functions/admin/nhp-options.php:304
+msgid "Module 4"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:305 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:305
+#: ftp/Zenite__/functions/admin/nhp-options.php:286
+#: ftp/Zenite____/functions/admin/nhp-options.php:305
+#: ftp/zenite_a/functions/admin/nhp-options.php:305
+msgid "<p class=\"description\">Home module #4</p>"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:310 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:310
+#: ftp/Zenite__/functions/admin/nhp-options.php:291
+#: ftp/Zenite____/functions/admin/nhp-options.php:310
+#: ftp/zenite_a/functions/admin/nhp-options.php:310
+msgid "Column 4 image"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:317 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:317
+#: ftp/Zenite__/functions/admin/nhp-options.php:298
+#: ftp/Zenite____/functions/admin/nhp-options.php:317
+#: ftp/zenite_a/functions/admin/nhp-options.php:317
+msgid "Column 4 title"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:324 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:324
+#: ftp/Zenite__/functions/admin/nhp-options.php:305
+#: ftp/Zenite____/functions/admin/nhp-options.php:324
+#: ftp/zenite_a/functions/admin/nhp-options.php:324
+msgid "Column 4 text"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:330 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:330
+#: ftp/Zenite__/functions/admin/nhp-options.php:311
+#: ftp/Zenite____/functions/admin/nhp-options.php:330
+#: ftp/zenite_a/functions/admin/nhp-options.php:330
+msgid "Column 4 link"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:364 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:364
+#: ftp/Zenite__/functions/admin/nhp-options.php:345
+#: ftp/Zenite____/functions/admin/nhp-options.php:364
+#: ftp/zenite_a/functions/admin/nhp-options.php:364
+msgid "Contact info"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:365 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:365
+#: ftp/Zenite__/functions/admin/nhp-options.php:346
+#: ftp/Zenite____/functions/admin/nhp-options.php:365
+#: ftp/zenite_a/functions/admin/nhp-options.php:365
+msgid "<p class=\"description\">Complete contact info</p>"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:384 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:377
+#: ftp/Zenite__/functions/admin/nhp-options.php:358
+#: ftp/Zenite____/functions/admin/nhp-options.php:377
+#: ftp/zenite_a/functions/admin/nhp-options.php:377
+msgid "Phone number"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:390 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:383
+#: ftp/Zenite__/functions/admin/nhp-options.php:364
+#: ftp/Zenite____/functions/admin/nhp-options.php:383
+#: ftp/zenite_a/functions/admin/nhp-options.php:383
+msgid "Contact Info 1 (Company Name)"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:396 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:389
+#: ftp/Zenite__/functions/admin/nhp-options.php:370
+#: ftp/Zenite____/functions/admin/nhp-options.php:389
+#: ftp/zenite_a/functions/admin/nhp-options.php:389
+msgid "Contact Info 2 (Street)"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:402 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:395
+#: ftp/Zenite__/functions/admin/nhp-options.php:376
+#: ftp/Zenite____/functions/admin/nhp-options.php:395
+#: ftp/zenite_a/functions/admin/nhp-options.php:395
+msgid "Contact Info 3 (Country)"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:408 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:401
+#: ftp/Zenite__/functions/admin/nhp-options.php:382
+#: ftp/Zenite____/functions/admin/nhp-options.php:401
+#: ftp/zenite_a/functions/admin/nhp-options.php:401
+msgid "Location latitude coordinate"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:414 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:407
+#: ftp/Zenite__/functions/admin/nhp-options.php:388
+#: ftp/Zenite____/functions/admin/nhp-options.php:407
+#: ftp/zenite_a/functions/admin/nhp-options.php:407
+msgid "Location longitude coordinate"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:420
+msgid "Map zoom level"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:432 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:413
+#: ftp/Zenite__/functions/admin/nhp-options.php:394
+#: ftp/Zenite____/functions/admin/nhp-options.php:413
+#: ftp/zenite_a/functions/admin/nhp-options.php:413
+msgid "Twitter url"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:439 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:420
+#: ftp/Zenite__/functions/admin/nhp-options.php:401
+#: ftp/Zenite____/functions/admin/nhp-options.php:420
+#: ftp/zenite_a/functions/admin/nhp-options.php:420
+msgid "Facebook url"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:446 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:447
+#: ftp/Zenite__/functions/admin/nhp-options.php:428
+#: ftp/Zenite____/functions/admin/nhp-options.php:447
+#: ftp/zenite_a/functions/admin/nhp-options.php:427
+msgid "tumblr url"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:452 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:453
+#: ftp/Zenite__/functions/admin/nhp-options.php:434
+#: ftp/Zenite____/functions/admin/nhp-options.php:453
+#: ftp/zenite_a/functions/admin/nhp-options.php:433
+msgid "dribble"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:458 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:459
+#: ftp/Zenite__/functions/admin/nhp-options.php:440
+#: ftp/Zenite____/functions/admin/nhp-options.php:459
+#: ftp/zenite_a/functions/admin/nhp-options.php:439
+msgid "rss"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:464 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:465
+#: ftp/Zenite__/functions/admin/nhp-options.php:446
+#: ftp/Zenite____/functions/admin/nhp-options.php:465
+#: ftp/zenite_a/functions/admin/nhp-options.php:445
+msgid "behance"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:470 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:471
+#: ftp/Zenite__/functions/admin/nhp-options.php:452
+#: ftp/Zenite____/functions/admin/nhp-options.php:471
+#: ftp/zenite_a/functions/admin/nhp-options.php:451
+msgid "google+"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:476 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:477
+#: ftp/Zenite__/functions/admin/nhp-options.php:458
+#: ftp/Zenite____/functions/admin/nhp-options.php:477
+#: ftp/zenite_a/functions/admin/nhp-options.php:457
+msgid "instagram"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:502 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:503
+#: ftp/Zenite__/functions/admin/nhp-options.php:484
+#: ftp/Zenite____/functions/admin/nhp-options.php:503
+#: ftp/zenite_a/functions/admin/nhp-options.php:483
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:503 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:504
+#: ftp/Zenite__/functions/admin/nhp-options.php:485
+#: ftp/Zenite____/functions/admin/nhp-options.php:504
+#: ftp/zenite_a/functions/admin/nhp-options.php:484
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:504 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:505
+#: ftp/Zenite__/functions/admin/nhp-options.php:486
+#: ftp/Zenite____/functions/admin/nhp-options.php:505
+#: ftp/zenite_a/functions/admin/nhp-options.php:485
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:506 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:507
+#: ftp/Zenite__/functions/admin/nhp-options.php:488
+#: ftp/Zenite____/functions/admin/nhp-options.php:507
+#: ftp/zenite_a/functions/admin/nhp-options.php:487
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:513 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:514
+#: ftp/Zenite__/functions/admin/nhp-options.php:495
+#: ftp/Zenite____/functions/admin/nhp-options.php:514
+#: ftp/zenite_a/functions/admin/nhp-options.php:494
+msgid "Theme Information"
+msgstr ""
+
+#: ../zenite/functions/admin/nhp-options.php:520 ../zenite old versions
+#: ftp/Zenite_/functions/admin/nhp-options.php:521
+#: ftp/Zenite__/functions/admin/nhp-options.php:502
+#: ftp/Zenite____/functions/admin/nhp-options.php:521
+#: ftp/zenite_a/functions/admin/nhp-options.php:501
+msgid "Documentation"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:19
+#: ../zenite/functions/admin/panels.php:25 ../zenite old versions
+#: ftp/Zenite_/functions/admin/panels.php:19
+#: ftp/Zenite_/functions/admin/panels.php:25
+#: ftp/Zenite__/functions/admin/panels.php:19
+#: ftp/Zenite__/functions/admin/panels.php:25
+#: ftp/Zenite____/functions/admin/panels.php:19
+#: ftp/Zenite____/functions/admin/panels.php:25
+#: ftp/zenite_a/functions/admin/panels.php:19
+#: ftp/zenite_a/functions/admin/panels.php:25
+msgid "Title"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:40 ../zenite old versions
+#: ftp/Zenite_/functions/admin/panels.php:40
+#: ftp/Zenite__/functions/admin/panels.php:40
+#: ftp/Zenite____/functions/admin/panels.php:40
+#: ftp/zenite_a/functions/admin/panels.php:40
+msgid "Introduce el texto del titulo:"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:44 ../zenite old versions
+#: ftp/Zenite_/functions/admin/panels.php:44
+#: ftp/Zenite__/functions/admin/panels.php:44
+#: ftp/Zenite____/functions/admin/panels.php:44
+#: ftp/zenite_a/functions/admin/panels.php:44
+msgid "Header Title:"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:54 ../zenite old versions
+#: ftp/Zenite_/functions/admin/panels.php:54
+#: ftp/Zenite__/functions/admin/panels.php:54
+#: ftp/Zenite____/functions/admin/panels.php:54
+#: ftp/zenite_a/functions/admin/panels.php:54
+msgid "Page Settings"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:67 ../zenite old versions
+#: ftp/Zenite_/functions/admin/panels.php:67
+#: ftp/Zenite__/functions/admin/panels.php:67
+#: ftp/Zenite____/functions/admin/panels.php:67
+#: ftp/zenite_a/functions/admin/panels.php:67
+msgid "Show WhiteStripe?:"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:73 ../zenite old versions
+#: ftp/Zenite_/functions/admin/panels.php:73
+#: ftp/Zenite__/functions/admin/panels.php:73
+#: ftp/Zenite____/functions/admin/panels.php:73
+#: ftp/zenite_a/functions/admin/panels.php:73
+msgid "Slider:"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:137 ../zenite old versions
+#: ftp/Zenite_/functions/admin/panels.php:137
+#: ftp/Zenite__/functions/admin/panels.php:137
+#: ftp/Zenite____/functions/admin/panels.php:137
+#: ftp/zenite_a/functions/admin/panels.php:137
+msgid "Info"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:146 ../zenite old versions
+#: ftp/Zenite_/functions/admin/panels.php:146
+#: ftp/Zenite__/functions/admin/panels.php:146
+#: ftp/Zenite____/functions/admin/panels.php:146
+#: ftp/zenite_a/functions/admin/panels.php:146
+msgid "Client:"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:151 ../zenite old versions
+#: ftp/Zenite_/functions/admin/panels.php:151
+#: ftp/Zenite__/functions/admin/panels.php:151
+#: ftp/Zenite____/functions/admin/panels.php:151
+#: ftp/zenite_a/functions/admin/panels.php:151
+msgid "Author:"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:155 ../zenite old versions
+#: ftp/Zenite_/functions/admin/panels.php:155
+#: ftp/Zenite__/functions/admin/panels.php:155
+#: ftp/Zenite____/functions/admin/panels.php:155
+#: ftp/zenite_a/functions/admin/panels.php:155
+msgid "Website:"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:160 ../zenite old versions
+#: ftp/Zenite____/functions/admin/panels.php:160
+#: ftp/zenite_a/functions/admin/panels.php:160
+msgid "New label:"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:171 ../zenite old versions
+#: ftp/Zenite_/functions/admin/panels.php:164
+#: ftp/Zenite__/functions/admin/panels.php:164
+#: ftp/Zenite____/functions/admin/panels.php:171
+#: ftp/zenite_a/functions/admin/panels.php:171
+msgid "Map"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:179 ../zenite old versions
+#: ftp/Zenite_/functions/admin/panels.php:172
+#: ftp/Zenite__/functions/admin/panels.php:172
+#: ftp/Zenite____/functions/admin/panels.php:179
+#: ftp/zenite_a/functions/admin/panels.php:179
+msgid "Latitude:"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:184 ../zenite old versions
+#: ftp/Zenite_/functions/admin/panels.php:177
+#: ftp/Zenite__/functions/admin/panels.php:177
+#: ftp/Zenite____/functions/admin/panels.php:184
+#: ftp/zenite_a/functions/admin/panels.php:184
+msgid "Longitude:"
+msgstr ""
+
+#: ../zenite/functions/admin/panels.php:188 ../zenite old versions
+#: ftp/Zenite_/functions/admin/panels.php:181
+#: ftp/Zenite__/functions/admin/panels.php:181
+#: ftp/Zenite____/functions/admin/panels.php:188
+#: ftp/zenite_a/functions/admin/panels.php:188
+msgid "Zoom:"
+msgstr ""
+
+#: ../zenite/functions/admin/plugins.php:90 ../zenite old versions
+#: ftp/zenite_a/functions/admin/plugins.php:90
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../zenite/functions/admin/plugins.php:103 ../zenite old versions
+#: ftp/zenite_a/functions/admin/plugins.php:103
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../zenite/functions/admin/portfolio.php:12 ../zenite old versions
+#: ftp/Zenite_/functions/admin/portfolio.php:53
+#: ftp/Zenite__/functions/admin/portfolio.php:12
+#: ftp/Zenite____/functions/admin/portfolio.php:12
+#: ftp/zenite_a/functions/admin/portfolio.php:12
+msgid "Add New Item"
+msgstr ""
+
+#: ../zenite/functions/admin/portfolio.php:13 ../zenite old versions
+#: ftp/Zenite_/functions/admin/portfolio.php:54
+#: ftp/Zenite__/functions/admin/portfolio.php:13
+#: ftp/Zenite____/functions/admin/portfolio.php:13
+#: ftp/zenite_a/functions/admin/portfolio.php:13
+msgid "Edit Item"
+msgstr ""
+
+#: ../zenite/functions/admin/portfolio.php:14 ../zenite old versions
+#: ftp/Zenite_/functions/admin/portfolio.php:55
+#: ftp/Zenite__/functions/admin/portfolio.php:14
+#: ftp/Zenite____/functions/admin/portfolio.php:14
+#: ftp/zenite_a/functions/admin/portfolio.php:14
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../zenite/functions/admin/portfolio.php:15 ../zenite old versions
+#: ftp/Zenite_/functions/admin/portfolio.php:56
+#: ftp/Zenite__/functions/admin/portfolio.php:15
+#: ftp/Zenite____/functions/admin/portfolio.php:15
+#: ftp/zenite_a/functions/admin/portfolio.php:15
+msgid "View Item"
+msgstr ""
+
+#: ../zenite/functions/admin/portfolio.php:16 ../zenite old versions
+#: ftp/Zenite_/functions/admin/portfolio.php:57
+#: ftp/Zenite__/functions/admin/portfolio.php:16
+#: ftp/Zenite____/functions/admin/portfolio.php:16
+#: ftp/zenite_a/functions/admin/portfolio.php:16
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: ../zenite/functions/admin/portfolio.php:17 ../zenite old versions
+#: ftp/Zenite_/functions/admin/portfolio.php:58
+#: ftp/Zenite__/functions/admin/portfolio.php:17
+#: ftp/Zenite____/functions/admin/portfolio.php:17
+#: ftp/zenite_a/functions/admin/portfolio.php:17
+msgid "Nothing found"
+msgstr ""
+
+#: ../zenite/functions/admin/portfolio.php:18 ../zenite old versions
+#: ftp/Zenite_/functions/admin/portfolio.php:59
+#: ftp/Zenite__/functions/admin/portfolio.php:18
+#: ftp/Zenite____/functions/admin/portfolio.php:18
+#: ftp/zenite_a/functions/admin/portfolio.php:18
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:49
+#: ../zenite/functions/admin/options/options.php:51 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:49
+#: ftp/Zenite_/functions/admin/options/options.php:51
+#: ftp/Zenite__/functions/admin/options/options.php:49
+#: ftp/Zenite__/functions/admin/options/options.php:51
+#: ftp/Zenite____/functions/admin/options/options.php:49
+#: ftp/Zenite____/functions/admin/options/options.php:51
+#: ftp/zenite_a/functions/admin/options/options.php:49
+#: ftp/zenite_a/functions/admin/options/options.php:51
+msgid "Options"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:63 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:63
+#: ftp/Zenite__/functions/admin/options/options.php:63
+#: ftp/Zenite____/functions/admin/options/options.php:63
+#: ftp/zenite_a/functions/admin/options/options.php:63
+msgid "<span id=\"footer-thankyou\">Options Panel created using the <a href=\""
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:247
+#: ../zenite/functions/admin/options/options.php:248
+#: ../zenite/functions/admin/options/options.php:681 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:247
+#: ftp/Zenite_/functions/admin/options/options.php:248
+#: ftp/Zenite_/functions/admin/options/options.php:681
+#: ftp/Zenite__/functions/admin/options/options.php:247
+#: ftp/Zenite__/functions/admin/options/options.php:248
+#: ftp/Zenite__/functions/admin/options/options.php:681
+#: ftp/Zenite____/functions/admin/options/options.php:247
+#: ftp/Zenite____/functions/admin/options/options.php:248
+#: ftp/Zenite____/functions/admin/options/options.php:681
+#: ftp/zenite_a/functions/admin/options/options.php:247
+#: ftp/zenite_a/functions/admin/options/options.php:248
+#: ftp/zenite_a/functions/admin/options/options.php:681
+msgid "Import / Export"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:274
+#: ../zenite/functions/admin/options/options.php:275
+#: ../zenite/functions/admin/options/options.php:700
+#: ../zenite/functions/admin/options/options.php:782 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:274
+#: ftp/Zenite_/functions/admin/options/options.php:275
+#: ftp/Zenite_/functions/admin/options/options.php:700
+#: ftp/Zenite_/functions/admin/options/options.php:782
+#: ftp/Zenite__/functions/admin/options/options.php:274
+#: ftp/Zenite__/functions/admin/options/options.php:275
+#: ftp/Zenite__/functions/admin/options/options.php:700
+#: ftp/Zenite__/functions/admin/options/options.php:782
+#: ftp/Zenite____/functions/admin/options/options.php:274
+#: ftp/Zenite____/functions/admin/options/options.php:275
+#: ftp/Zenite____/functions/admin/options/options.php:700
+#: ftp/Zenite____/functions/admin/options/options.php:782
+#: ftp/zenite_a/functions/admin/options/options.php:274
+#: ftp/zenite_a/functions/admin/options/options.php:275
+#: ftp/zenite_a/functions/admin/options/options.php:700
+#: ftp/zenite_a/functions/admin/options/options.php:782
+msgid "Dev Mode Info"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:330 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:330
+#: ftp/Zenite__/functions/admin/options/options.php:330
+#: ftp/Zenite____/functions/admin/options/options.php:330
+#: ftp/zenite_a/functions/admin/options/options.php:330
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:647
+#: ../zenite/functions/admin/options/options.php:807 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:647
+#: ftp/Zenite_/functions/admin/options/options.php:807
+#: ftp/Zenite__/functions/admin/options/options.php:647
+#: ftp/Zenite__/functions/admin/options/options.php:807
+#: ftp/Zenite____/functions/admin/options/options.php:647
+#: ftp/Zenite____/functions/admin/options/options.php:807
+#: ftp/zenite_a/functions/admin/options/options.php:647
+#: ftp/zenite_a/functions/admin/options/options.php:807
+msgid "Reset to Defaults"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:653 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:653
+#: ftp/Zenite__/functions/admin/options/options.php:653
+#: ftp/Zenite____/functions/admin/options/options.php:653
+#: ftp/zenite_a/functions/admin/options/options.php:653
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:655 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:655
+#: ftp/Zenite__/functions/admin/options/options.php:655
+#: ftp/Zenite____/functions/admin/options/options.php:655
+#: ftp/zenite_a/functions/admin/options/options.php:655
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:659 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:659
+#: ftp/Zenite__/functions/admin/options/options.php:659
+#: ftp/Zenite____/functions/admin/options/options.php:659
+#: ftp/zenite_a/functions/admin/options/options.php:659
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:660 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:660
+#: ftp/Zenite__/functions/admin/options/options.php:660
+#: ftp/Zenite____/functions/admin/options/options.php:660
+#: ftp/zenite_a/functions/admin/options/options.php:660
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:662 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:662
+#: ftp/Zenite__/functions/admin/options/options.php:662
+#: ftp/Zenite____/functions/admin/options/options.php:662
+#: ftp/zenite_a/functions/admin/options/options.php:662
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:718 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:718
+#: ftp/Zenite__/functions/admin/options/options.php:718
+#: ftp/Zenite____/functions/admin/options/options.php:718
+#: ftp/zenite_a/functions/admin/options/options.php:718
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:720 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:720
+#: ftp/Zenite__/functions/admin/options/options.php:720
+#: ftp/Zenite____/functions/admin/options/options.php:720
+#: ftp/zenite_a/functions/admin/options/options.php:720
+msgid "Import Options"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:728 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:728
+#: ftp/Zenite__/functions/admin/options/options.php:728
+#: ftp/Zenite____/functions/admin/options/options.php:728
+#: ftp/zenite_a/functions/admin/options/options.php:728
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:741 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:741
+#: ftp/Zenite__/functions/admin/options/options.php:741
+#: ftp/Zenite____/functions/admin/options/options.php:741
+#: ftp/zenite_a/functions/admin/options/options.php:741
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:751 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:751
+#: ftp/Zenite__/functions/admin/options/options.php:751
+#: ftp/Zenite____/functions/admin/options/options.php:751
+#: ftp/zenite_a/functions/admin/options/options.php:751
+msgid "Import"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:751 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:751
+#: ftp/Zenite__/functions/admin/options/options.php:751
+#: ftp/Zenite____/functions/admin/options/options.php:751
+#: ftp/zenite_a/functions/admin/options/options.php:751
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:754 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:754
+#: ftp/Zenite__/functions/admin/options/options.php:754
+#: ftp/Zenite____/functions/admin/options/options.php:754
+#: ftp/zenite_a/functions/admin/options/options.php:754
+msgid "Export Options"
+msgstr ""
+
+#: ../zenite/functions/admin/options/options.php:756 ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/options.php:756
+#: ftp/Zenite__/functions/admin/options/options.php:756
+#: ftp/Zenite____/functions/admin/options/options.php:756
+#: ftp/zenite_a/functions/admin/options/options.php:756
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+msgstr ""
+
+#: ../zenite/functions/admin/options/fields/color_gradient/field_color_gradient.php:35
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/fields/color_gradient/field_color_gradient.php:35
+#: ftp/Zenite__/functions/admin/options/fields/color_gradient/field_color_gradient.php:35
+#: ftp/Zenite____/functions/admin/options/fields/color_gradient/field_color_gradient.php:35
+#: ftp/zenite_a/functions/admin/options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: ../zenite/functions/admin/options/fields/color_gradient/field_color_gradient.php:38
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/fields/color_gradient/field_color_gradient.php:38
+#: ftp/Zenite__/functions/admin/options/fields/color_gradient/field_color_gradient.php:38
+#: ftp/Zenite____/functions/admin/options/fields/color_gradient/field_color_gradient.php:38
+#: ftp/zenite_a/functions/admin/options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: ../zenite/functions/admin/options/fields/google_webfonts/field_google_webfonts.php:42
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/fields/google_webfonts/field_google_webfonts.php:42
+#: ftp/Zenite__/functions/admin/options/fields/google_webfonts/field_google_webfonts.php:42
+#: ftp/Zenite____/functions/admin/options/fields/google_webfonts/field_google_webfonts.php:42
+#: ftp/zenite_a/functions/admin/options/fields/google_webfonts/field_google_webfonts.php:42
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>.<br/>Please <a href=\"http://www.google.com/webfonts\" target="
+"\"_blank\">browse the directory</a> to preview a font, then select your "
+"choice below."
+msgstr ""
+
+#: ../zenite/functions/admin/options/fields/multi_text/field_multi_text.php:39
+#: ../zenite/functions/admin/options/fields/multi_text/field_multi_text.php:46
+#: ../zenite/functions/admin/options/fields/multi_text/field_multi_text.php:50
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/fields/multi_text/field_multi_text.php:39
+#: ftp/Zenite_/functions/admin/options/fields/multi_text/field_multi_text.php:46
+#: ftp/Zenite_/functions/admin/options/fields/multi_text/field_multi_text.php:50
+#: ftp/Zenite__/functions/admin/options/fields/multi_text/field_multi_text.php:39
+#: ftp/Zenite__/functions/admin/options/fields/multi_text/field_multi_text.php:46
+#: ftp/Zenite__/functions/admin/options/fields/multi_text/field_multi_text.php:50
+#: ftp/Zenite____/functions/admin/options/fields/multi_text/field_multi_text.php:39
+#: ftp/Zenite____/functions/admin/options/fields/multi_text/field_multi_text.php:46
+#: ftp/Zenite____/functions/admin/options/fields/multi_text/field_multi_text.php:50
+#: ftp/zenite_a/functions/admin/options/fields/multi_text/field_multi_text.php:39
+#: ftp/zenite_a/functions/admin/options/fields/multi_text/field_multi_text.php:46
+#: ftp/zenite_a/functions/admin/options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: ../zenite/functions/admin/options/fields/multi_text/field_multi_text.php:54
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/fields/multi_text/field_multi_text.php:54
+#: ftp/Zenite__/functions/admin/options/fields/multi_text/field_multi_text.php:54
+#: ftp/Zenite____/functions/admin/options/fields/multi_text/field_multi_text.php:54
+#: ftp/zenite_a/functions/admin/options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: ../zenite/functions/admin/options/fields/upload/field_upload.php:39
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/fields/upload/field_upload.php:39
+#: ftp/Zenite__/functions/admin/options/fields/upload/field_upload.php:39
+#: ftp/Zenite____/functions/admin/options/fields/upload/field_upload.php:39
+#: ftp/zenite_a/functions/admin/options/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr ""
+
+#: ../zenite/functions/admin/options/fields/upload/field_upload.php:40
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/fields/upload/field_upload.php:40
+#: ftp/Zenite__/functions/admin/options/fields/upload/field_upload.php:40
+#: ftp/Zenite____/functions/admin/options/fields/upload/field_upload.php:40
+#: ftp/zenite_a/functions/admin/options/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr ""
+
+#: ../zenite/functions/admin/options/validation/color/validation_color.php:15
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/validation/color/validation_color.php:15
+#: ftp/Zenite__/functions/admin/options/validation/color/validation_color.php:15
+#: ftp/Zenite____/functions/admin/options/validation/color/validation_color.php:15
+#: ftp/zenite_a/functions/admin/options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../zenite/functions/admin/options/validation/comma_numeric/validation_comma_numeric.php:15
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/validation/comma_numeric/validation_comma_numeric.php:15
+#: ftp/Zenite__/functions/admin/options/validation/comma_numeric/validation_comma_numeric.php:15
+#: ftp/Zenite____/functions/admin/options/validation/comma_numeric/validation_comma_numeric.php:15
+#: ftp/zenite_a/functions/admin/options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: ../zenite/functions/admin/options/validation/date/validation_date.php:15
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/validation/date/validation_date.php:15
+#: ftp/Zenite__/functions/admin/options/validation/date/validation_date.php:15
+#: ftp/Zenite____/functions/admin/options/validation/date/validation_date.php:15
+#: ftp/zenite_a/functions/admin/options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../zenite/functions/admin/options/validation/email/validation_email.php:15
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/validation/email/validation_email.php:15
+#: ftp/Zenite__/functions/admin/options/validation/email/validation_email.php:15
+#: ftp/Zenite____/functions/admin/options/validation/email/validation_email.php:15
+#: ftp/zenite_a/functions/admin/options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../zenite/functions/admin/options/validation/no_html/validation_no_html.php:15
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/validation/no_html/validation_no_html.php:15
+#: ftp/Zenite__/functions/admin/options/validation/no_html/validation_no_html.php:15
+#: ftp/Zenite____/functions/admin/options/validation/no_html/validation_no_html.php:15
+#: ftp/zenite_a/functions/admin/options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../zenite/functions/admin/options/validation/no_special_chars/validation_no_special_chars.php:15
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/validation/no_special_chars/validation_no_special_chars.php:15
+#: ftp/Zenite__/functions/admin/options/validation/no_special_chars/validation_no_special_chars.php:15
+#: ftp/Zenite____/functions/admin/options/validation/no_special_chars/validation_no_special_chars.php:15
+#: ftp/zenite_a/functions/admin/options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../zenite/functions/admin/options/validation/numeric/validation_numeric.php:15
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/validation/numeric/validation_numeric.php:15
+#: ftp/Zenite__/functions/admin/options/validation/numeric/validation_numeric.php:15
+#: ftp/Zenite____/functions/admin/options/validation/numeric/validation_numeric.php:15
+#: ftp/zenite_a/functions/admin/options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../zenite/functions/admin/options/validation/url/validation_url.php:15
+#: ../zenite old versions
+#: ftp/Zenite_/functions/admin/options/validation/url/validation_url.php:15
+#: ftp/Zenite__/functions/admin/options/validation/url/validation_url.php:15
+#: ftp/Zenite____/functions/admin/options/validation/url/validation_url.php:15
+#: ftp/zenite_a/functions/admin/options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../zenite/js/interface.php:2 ../zenite old versions
+#: ftp/Zenite_/js/interface.php:2 ftp/Zenite__/js/interface.php:2
+#: ftp/Zenite____/js/interface.php:2 ftp/zenite_a/js/interface.php:2
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: ../zenite old versions ftp/Zenite_/functions/admin/main.php:97
+#: ftp/Zenite__/functions/admin/main.php:97
+#: ftp/Zenite____/functions/admin/main.php:97
+#: ftp/zenite_a/functions/admin/main.php:97
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../zenite old versions ftp/Zenite_/functions/admin/nhp-options.php:427
+#: ftp/Zenite__/functions/admin/nhp-options.php:408
+#: ftp/Zenite____/functions/admin/nhp-options.php:427
+msgid "Vimeo url"
+msgstr ""
+
+#: ../zenite old versions ftp/Zenite_/functions/admin/nhp-options.php:434
+#: ftp/Zenite__/functions/admin/nhp-options.php:415
+#: ftp/Zenite____/functions/admin/nhp-options.php:434
+msgid "youtube url"
+msgstr ""
+
+#: ../zenite old versions ftp/Zenite_/functions/admin/nhp-options.php:441
+#: ftp/Zenite__/functions/admin/nhp-options.php:422
+#: ftp/Zenite____/functions/admin/nhp-options.php:441
+msgid "skype user"
+msgstr ""
+
+#: ../zenite old versions ftp/Zenite_/functions/admin/op.php:20
+#: ftp/Zenite_/functions/admin/options.php:18
+#: ftp/Zenite__/functions/admin/op.php:20
+#: ftp/Zenite__/functions/admin/options.php:18
+#: ftp/Zenite____/functions/admin/op.php:20
+#: ftp/Zenite____/functions/admin/options.php:18
+msgid "Zenite options"
+msgstr ""
+
+#: ../zenite old versions ftp/Zenite_/functions/admin/portfolio.php:13
+msgid "Add New Video"
+msgstr ""
+
+#: ../zenite old versions ftp/Zenite_/functions/admin/portfolio.php:14
+msgid "Edit Video"
+msgstr ""
+
+#: ../zenite old versions ftp/Zenite_/functions/admin/portfolio.php:15
+msgid "New Video"
+msgstr ""
+
+#: ../zenite old versions ftp/Zenite_/functions/admin/portfolio.php:16
+msgid "View Video"
+msgstr ""
+
+#: ../zenite old versions ftp/Zenite_/functions/admin/portfolio.php:17
+msgid "Search Videos"
+msgstr ""
+
+#: ../zenite old versions ftp/Zenite_/functions/admin/portfolio.php:18
+msgid "No Video Found"
+msgstr ""
+
+#: ../zenite old versions ftp/Zenite_/functions/admin/portfolio.php:19
+msgid "No Video Found in trash"
+msgstr ""
+
+#: ../zenite old versions ftp/zenite_a/portfolio.php:47
+msgid ""
+"Traduct are regarded as industry leaders in digital strategy and solutions, "
+"focused solely on delivering."
+msgstr ""

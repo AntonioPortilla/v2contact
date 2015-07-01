@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*.index.wrapper_header{padding-bottom: 26px;}*/
+
+img{
+   background: transparent; 
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF)"; 
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#11FFFFFF,endColorstr=#00FFFFFF);
+    zoom: 1;
+}
