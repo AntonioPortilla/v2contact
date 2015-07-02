@@ -53,9 +53,21 @@ module.exports = function(grunt) {
         }]
       }
     },
-    jshint: {
+    /*jshint: {
       all: ['Gruntfile.js', 'dev/js/script.js']
-    },    
+    },*/
+    jshint: {
+      options: {
+        curly: true,
+        eqeqeq: false,//true: Prohíbe el uso de == y != y obliga a utilizar === y !==.
+        eqnull: true,
+        browser: true,
+        globals: {
+          jQuery: true
+        },
+      },
+      uses_defaults: ['Gruntfile.js', 'dev/js/script.js']
+    },
     pagespeed: {
       options: {
         nokey: true,
