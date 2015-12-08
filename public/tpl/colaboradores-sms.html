@@ -1,0 +1,63 @@
+<link rel="import" href="../bower_components/polymer/polymer.html">
+
+<dom-module id="colaboradores-v2c">
+	<style>
+		div h4>span, div h4>strong>span{
+			color: #0360ac;
+		}
+		.col-2 img {
+			float: left;
+			left: 0;
+			margin-top: 46px;
+			position: absolute;
+			width: auto;
+		}
+	</style>
+	<template>
+		<div class="row">
+			<div class="large-6 columns">
+				<h3 class="show-for-small">{{ tiempo }}<hr/></h3>
+				<h4 class="hide-for-small"><strong>Reciba</strong> {{ respuestas }} <span>{{ tiempo }}</span></h4>
+				<p>
+					Problema resuelto!. Publique un solo número de WhatsApp y asigne conversaciobnes a múltiples colaboradores (agentes). Configure permisos y mida el rendimiento de forma analítica.
+				</p>
+			</div>
+			<div class="large-6 columns">
+				<img data-interchange="[/v2contact/public/images/colaboradores-small.png, (only screen and (min-width: 1px))], [/v2contact/public/images/colaboradores.png, (only screen and (min-width: 960px))]">
+			</div>
+		</div>
+		<div class="row">
+			<div class="large-6 columns col-2">
+				<img data-interchange="[/v2contact/public/images/visitantes-small.png, (only screen and (min-width: 1px))], [/v2contact/public/images/sms.png, (only screen and (min-width: 960px))]">
+			</div>
+			<div class="large-6 columns col-1">
+				<h3 class="show-for-small">SMS Gratuito<hr/></h3>
+				<h4 class="hide-for-small">{{ envio }} <strong>{{ free }} <span>Gratuitos</span></strong></h4>
+				<p>
+					Con nuestra App podrá enviar mensajes SMS gratis e ilimitadamente según el operador móvil, sin preocuparse de precios por envío como ofrecen otras soluciones similares. &iexcl;<strong>El límite lo pone usted mismo</strong>!
+				</p>
+			</div>
+		</div>
+	</template>
+	<script>
+	Polymer({
+		is: 'colaboradores-v2c',
+		properties: {
+			type: String,
+			respuestas: {
+				value: 'respuestas de Campañas en'
+			},
+			tiempo: {
+				value: 'Tiempo Real'
+			},
+			envio: {
+				value: 'Envío de mensajes'
+			},
+			free: {
+				value: 'SMS'
+			}
+
+		}
+	});
+	</script>
+</dom-module>

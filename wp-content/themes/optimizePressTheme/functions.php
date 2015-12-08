@@ -30,3 +30,5 @@ if (!current_user_can('edit_users')) {
     add_filter('pre_option_update_core', create_function('$a', "return null;"));
 }
 
+
+

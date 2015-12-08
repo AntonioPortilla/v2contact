@@ -1,0 +1,23 @@
+<dom-module id="satisfaccion-v2c">
+	<template>
+		<p>
+			"Miles de grandes y pequeños clientes se encuentran al 100% <br>{{ clientes }}"
+		</p>
+		<ul>
+			<li><img src="/public/images/mafre.png" alt="mafre"></li>
+			<li><img src="/public/images/cangre-burguer.png" alt="burguer"></li>
+			<li><img src="/public/images/skotiabank.png" alt="skotiabank"></li>
+		</ul>
+	</template>
+	<script>
+	Polymer({
+		is: 'satisfaccion-v2c',
+		properties: {
+			clientes: {
+				type: String,
+				value: 'satisfechos de la calidad de nuestros servicios'
+			}
+		}
+	});
+	</script>
+</dom-module>

@@ -1,0 +1,23 @@
+<link rel="import" href="../bower_components/polymer/polymer.html">
+
+<dom-module id="frase-v2c">
+
+  <template>
+    <div class="row">
+      <div class="large-12 columns">
+        <h2 class="subheader"><strong>{{today}}</strong> Obtenga una Prueba Gratis y sin Compromiso!</h2>
+      </div>
+    </div>
+  </template>
+
+  <script>
+    Polymer({
+      is: "frase-v2c",
+      ready: function() {
+        // set this element's today property
+        this.today = "Solo por hoy";
+      }
+    });
+  </script>
+
+</dom-module>

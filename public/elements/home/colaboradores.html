@@ -1,0 +1,49 @@
+<dom-module id="colaboradores-v2c">
+	<template>
+		<div class="row">
+			<div class="large-6 columns">
+				<img data-interchange="[/public/images/colaboradores-small.png, (only screen and (min-width: 1px))], [/public/images/colaboradores.png, (only screen and (min-width: 960px))]">
+			</div>
+			<div class="large-6 columns">
+				<h3 class="show-for-small">Multiples Colaboradores<hr/></h3>
+				<h4 class="hide-for-small">{{ colaboradores }} <strong>{{ colabora2 }}</strong></h4>
+				<p>
+					Problema resuelto!. Publique un solo número de WhatsApp y asigne conversaciobnes a múltiples colaboradores (agentes). Configure permisos y mida el rendimiento de forma analítica.
+				</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="large-6 columns col-1">
+				<h3 class="show-for-small">Visitantes de su Página Web<hr/></h3>
+				<h4 class="hide-for-small">{{ hable }} <strong>{{ visitantes }}</strong></h4>
+				<p>
+					Instale de forma fácil el <strong>Chat Online</strong> de V2Contact en su web, y reciba las conversasiones en su whatsapp. &iexcl;Sin instalar aplicaciones adicionales!
+				</p>
+			</div>
+			<div class="large-6 columns col-2">
+				<img data-interchange="[/public/images/visitantes-small.png, (only screen and (min-width: 1px))], [/public/images/visitantes.png, (only screen and (min-width: 960px))]">
+			</div>
+		</div>
+	</template>
+	<script>
+	Polymer({
+		is: 'colaboradores-v2c',
+		properties: {
+			type: String,
+			colaboradores: {
+				value: 'Un solo número con'
+			},
+			colabora2: {
+				value: 'múltiples colaboradores'
+			},
+			hable: {
+				value: 'Hable desde WhatsApp con los'
+			},
+			visitantes: {
+				value: 'visitantes de su pagina web'
+			}
+
+		}
+	});
+	</script>
+</dom-module>

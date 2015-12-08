@@ -1,0 +1,24 @@
+{
+  "name": "v2contact",
+  "version": "3.0.0",
+  "homepage": "https://github.com/ElAmoDelMal/v2contact",
+  "authors": [
+    "Julio Laveriano en SITATEL <julioantonio.lp@gmail.com>"
+  ],
+  "description": "El sistema que le permite contactar más clientes y vender en automático",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "foundation": "~5.5.3",
+    "fontawesome": "~4.4.0",
+    "open-sans-fontface": "~1.4.2"
+  },
+  "devDependencies": {}
+}

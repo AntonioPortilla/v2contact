@@ -1,0 +1,55 @@
+<link rel="import" href="../bower_components/polymer/polymer.html">
+
+<dom-module id="servicios-v2c">
+	<template>
+		<div class="row">
+			<div class="large-6 columns">
+				<img data-interchange="[/v2contact/public/images/comunicacion-small.png, (only screen and (min-width: 1px))], [/v2contact/public/images/comunicacion.png, (only screen and (min-width: 960px))]">
+			</div>
+			<div class="large-6 columns">
+				<ul>
+					<li>
+						<h5>{{ com }}</h5>
+						<p>
+							Sus clientes quedarán asombrados al recibir una comunicación distintas a todas las demás &iexcl;Comunique su mensaje de forma distinta a los demás.
+						</p>
+
+		            </li>
+		            <li>
+						<h5>{{ auto }}</h5>
+						<p>
+							Protege de forma fácil sus campañas y controle su base de datos con total seguridad, ahorre en el personal que realiza llamadas telefónicas. &iexcl;Hágalas de forma masiva y automática con un solo click!
+						</p>
+
+		            </li>
+		            <li>
+						<h5>{{ rpta }}</h5>
+						<p>
+							Somos la única solución que le entrga resultados medibles, mediante gráficos y estadísticas que e permitirá conocer el resultado de sus campañas de llamadas.
+						</p>
+
+		            </li>
+				</ul>
+			</div>
+		</div>
+	</template>
+	<script>
+		Polymer({
+			is: 'servicios-v2c',
+			properties: {
+				com:{
+					type: String,
+					value: 'Solución única en innovadora'
+				},
+				auto:{
+					type: String,
+					value: 'Automatización de tareas'
+				},
+				rpta:{
+					type: String,
+					value: 'Mida el impacto y resultados'
+				}
+			}
+		});
+	</script>
+</dom-module>

@@ -1,3 +1,4 @@
+<pre style="display:none;color:red;background:yellowgreen">probando template</pre>
 <?php
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads

@@ -11,7 +11,6 @@
 	<![endif]-->
 </head>
 <body>
-
 	<div id="wrapper"><div id="content">
 
 		<div id="header">

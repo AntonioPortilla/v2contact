@@ -1,0 +1,39 @@
+<link rel="import" href="../bower_components/polymer/polymer.html">
+
+<dom-module id="frase-v2c">
+
+  <template>
+    <style>
+      div h2 {
+        font-weight: normal;
+      }
+      div h2>a{
+        position: absolute;
+        right: 0;
+        top: -7px;
+      }
+    </style>
+    <div class="row">
+      <div class="large-12 columns">
+        <h2 class="subheader">
+          <strong>{{today}}</strong> Obtenga una Prueba Gratis y sin Compromiso!
+          <a href="#" class="button large btn-default ">&iexcl;Si Quiero!</a>
+        </h2>
+      </div>
+    </div>
+    <div>
+      <content></content>
+    </div>
+  </template>
+
+  <script>
+    Polymer({
+      is: "frase-v2c",
+      ready: function() {
+        // set this element's today property
+        this.today = "Solo por hoy";
+      }
+    });
+  </script>
+
+</dom-module>

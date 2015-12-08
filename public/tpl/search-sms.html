@@ -1,0 +1,24 @@
+<link rel="import" href="../bower_components/polymer/polymer.html">
+
+<dom-module id="search-v2c">
+	<template>
+		<h3>{{ millones }}</h3>
+		<p>{{ usuarios }} <br><strong>están buscando</strong> contactarlo!</p>
+		<a href="#" class="button large btn-default">Prueba &iexcl;Sin Costo!</a>
+	</template>
+	<script>
+		Polymer({
+			is: 'search-v2c',
+			properties: {
+				millones: {
+					type: String,
+					value: '900 millones'
+				},
+				usuarios: {
+					type: String,
+					value: 'de usuarios de WhatsApp'
+				}
+			}
+		});
+	</script>
+</dom-module>

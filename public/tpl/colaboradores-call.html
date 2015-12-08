@@ -1,0 +1,56 @@
+<link rel="import" href="../bower_components/polymer/polymer.html">
+
+<dom-module id="colaboradores-v2c">
+	<template>
+		<style>
+			.col-2 img{
+				width: 428px;
+			}
+			.row:last-child{
+				padding-bottom: 158px;
+			}
+			.col-2 img{
+				margin-top: 17px;
+			}
+		</style>
+		<div class="row">
+			<div class="large-6 columns">
+				<img data-interchange="[/v2contact/public/images/colaboradores-small.png, (only screen and (min-width: 1px))], [/v2contact/public/images/colaboradores.png, (only screen and (min-width: 960px))]">
+			</div>
+			<div class="large-6 columns">
+				<h3 class="show-for-small">Audios Pre-Grabados<hr/></h3>
+				<h4 class="hide-for-small">{{ colaboradores }}</h4>
+				<p>
+					Fidelice a sus clientes enviandoles un saludo de cumpleaños, recordatorio de cobranza o cualquier comunicado importante que pueda ayudarlos e informarlos &iexcl;de forma inmediata!
+				</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="large-6 columns col-1">
+				<h3 class="show-for-small">Visitantes de su Página Web<hr/></h3>
+				<h4 class="hide-for-small">{{ hable }}</h4>
+				<p>
+					Tenemos una única solución que le permitirá recibir respuestas de todas las llamadas enviadas. Sus clientes tendrán la opción de responder la llamada, y usted ver los resultados en un panel de control web. &iexcl;Sin necesidad de pagar por personal que atienda las llamadas!
+				</p>
+			</div>
+			<div class="large-6 columns col-2">
+				<img data-interchange="[/v2contact/public/images/respuestas-small.png, (only screen and (min-width: 1px))], [/v2contact/public/images/respuestas.png, (only screen and (min-width: 960px))]">
+			</div>
+		</div>		
+	</template>
+	<script>
+		Polymer({
+			is: 'colaboradores-v2c',
+			properties: {
+				type: String,
+				colaboradores: {
+					value: 'Automatización de llamadas con audios pre-grabados'
+				},
+				hable: {
+					value: 'Reciba respuestas de campañas en tiempo real'
+				}
+
+			}
+		});
+	</script>
+</dom-module>

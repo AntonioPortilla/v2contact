@@ -1,0 +1,64 @@
+<link rel="import" href="../bower_components/polymer/polymer.html">
+
+<dom-module id="servicios-v2c">
+	<template>
+		<style>
+			@media(min-width: 960px){
+				.columns:last-child {
+					padding-bottom: 0px;
+					margin-bottom: -1px;
+				}
+			
+			}
+		</style>
+		<div class="row">
+			<div class="large-6 columns">
+				<ul>
+					<li>
+						<h5>{{ per }} <strong>de Mensajes</strong></h5>
+						<p>
+							Personalice el envío de cada mensaje con variables predefinidas.
+						</p>
+
+		            </li>
+		            <li>
+						<h5>{{ panel }} <strong>Intuitivo</strong></h5>
+						<p>
+							Programe de forma fácil sus campañas y controle su base de datos con seguridad.
+						</p>
+
+		            </li>
+		            <li>
+						<h5>{{ entrega }} <strong>Garantizada</strong></h5>
+						<p>
+							Somos la única solución que le garantiza la entrega de sus mensajes, ya que los mensajes son entregados directamente al operador móvil. &iexcl;sin pasar por intermediarios!
+						</p>
+
+		            </li>
+				</ul>
+			</div>
+			<div class="large-6 columns">
+				<img data-interchange="[/v2contact/public/images/garantizada-small.png, (only screen and (min-width: 1px))], [/v2contact/public/images/garantizada.png, (only screen and (min-width: 960px))]">
+			</div>
+		</div>
+	</template>
+	<script>
+		Polymer({
+			is: 'servicios-v2c',
+			properties: {
+				per:{
+					type: String,
+					value: 'Personalización'
+				},
+				panel:{
+					type: String,
+					value: 'panel de control'
+				},
+				entrega:{
+					type: String,
+					value: '100% de Entrega'
+				}
+			}
+		});
+	</script>
+</dom-module>

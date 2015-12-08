@@ -1,0 +1,53 @@
+<dom-module id="servicios-v2c">
+	<template>
+		<div class="row">
+			<div class="large-6 columns">
+				<img data-interchange="[/public/images/comunicacion-small.png, (only screen and (min-width: 1px))], [/public/images/comunicacion.png, (only screen and (min-width: 960px))]">
+			</div>
+			<div class="large-6 columns">
+				<ul>
+					<li>
+						<h5>{{ com }}</h5>
+						<p>
+							ya sea que sus clientes lo contacten por medio del chat o su número de WhatsApp, usted podrá responder en autonático con mensajes preestablecidos.
+						</p>
+
+		            </li>
+		            <li>
+						<h5>{{ auto }}</h5>
+						<p>
+							Integre y automatice toda la comunicación WhatsApp con sus clientes en un CRM y multiples canales como email, mensajes SMS, llamadas automáticas, audio y video.
+						</p>
+
+		            </li>
+		            <li>
+						<h5>{{ rpta }}</h5>
+						<p>
+							Ahorre tiempo con el envío de respuestas prediseñadas para las preguntas más frecuentes.
+						</p>
+
+		            </li>
+				</ul>
+			</div>
+		</div>
+	</template>
+	<script>
+		Polymer({
+			is: 'servicios-v2c',
+			properties: {
+				com:{
+					type: String,
+					value: 'Comunicación con respuestas automáticas'
+				},
+				auto:{
+					type: String,
+					value: 'Automatización Multicanal'
+				},
+				rpta:{
+					type: String,
+					value: 'Respuestas Prediseñadas'
+				}
+			}
+		});
+	</script>
+</dom-module>

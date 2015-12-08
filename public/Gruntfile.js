@@ -1,5 +1,5 @@
 var path          = require('path');
-var stylusDir     = 'dev/css';
+var stylusDir     = 'css/dev';
 var javascriptDir = 'public/javascript';
 var JALP          = 'tu-papa';
 /*var error = chalk.bold.red;
@@ -16,30 +16,51 @@ module.exports = function(grunt) {
         },
         styles: {
             src: [
-                  'dev/css/style.css',
-                  'dev/css/stylus.css'
+                  'css/dev/style.css',
+                  'css/dev/stylus.css'
                   ],
-            dest: 'prod/css/styles.css'
+            dest: 'css/prod/styles.css'
         },
         scripts: {
             src: [
-                  'dev/js/jquery.sabecarousel.js',
-                  'dev/js/script.js'
+                  'js/dev/jquery.sabecarousel.js',//no hay
+                  'js/dev/script.js'
                   ],
-            dest: 'prod/js/scripts.js'
+            dest: 'js/prod/scripts.js'
         }
     },
     cssmin: {
       compress: {
         files: {
-          "public/css/styles.min.css": 'prod/css/styles.css'
+          "css/styles.min.css": 'css/prod/styles.css',
+          'css/app.min.css':
+          [
+            'css/prod/app.css',
+            'bower_components/foundation/css/normalize.css',
+            'css/prod/foundation-opt.css',
+            'css/dev/jquery.skidder.css'
+          ]
         }
       }
-    },        
+    },
     uglify: {
       my_target: {
         files: {
-          'public/js/scripts.min.js': 'prod/js/scripts.js'
+          'js/scripts.min.js': 'js/prod/scripts.js',
+          'js/js-head.min.js':
+          [
+            'bower_components/foundation/js/vendor/modernizr.js',
+            'bower_components/webcomponentsjs/webcomponents-lite.min.js'
+          ],
+          'js/app.min.js':
+          [
+            'bower_components/foundation/js/vendor/jquery.js',
+            'bower_components/foundation/js/foundation.min.js',
+            'js/dev/imagesloaded.js',
+            'js/dev/smartresize.js',
+            'js/dev/jquery.skidder.js',
+            'js/dev/app.js'
+          ]
         }
       }
     },
@@ -47,15 +68,12 @@ module.exports = function(grunt) {
       dynamic: {
         files: [{
           expand: true,
-          cwd: 'public/images/',
+          cwd: 'images/',
           src: ['**/*.{png,jpg,gif}'],
-          dest: 'prod/images/'
+          dest: 'images/prod/'
         }]
       }
     },
-    /*jshint: {
-      all: ['Gruntfile.js', 'dev/js/script.js']
-    },*/
     jshint: {
       options: {
         curly: true,
@@ -66,7 +84,7 @@ module.exports = function(grunt) {
           jQuery: true
         },
       },
-      uses_defaults: ['Gruntfile.js', 'dev/js/script.js']
+      uses_defaults: ['Gruntfile.js', 'js/dev/script.js']
     },
     pagespeed: {
       options: {
@@ -89,6 +107,18 @@ module.exports = function(grunt) {
           threshold: 80
         }
       }
+    },
+    sass: {
+      dist: {
+        options: {
+          style: 'expanded',
+          loadPath: ['bower_components/foundation/scss']
+        },
+        files: {
+          'css/prod/app.css': 'scss/app.scss',
+          'css/prod/foundation-opt.css': 'scss/foundation.scss'
+        }
+      }
     }
 
   });
@@ -101,10 +131,11 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-pagespeed');
+  grunt.loadNpmTasks('grunt-contrib-sass');
 
   // Default task(s).
   grunt.registerTask('concatenando', ['concat']);
-  grunt.registerTask('minify', ['cssmin', 'uglify']);  
-  grunt.registerTask('public', ['concatenando','minify']);
+  grunt.registerTask('minify', ['cssmin', 'uglify']);
+  grunt.registerTask('public', ['concatenando', 'sass', 'minify']);
 
 };

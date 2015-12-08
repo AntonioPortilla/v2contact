@@ -1,0 +1,28 @@
+<dom-module id="hablan-v2c">
+	<template>
+		<div class="row">
+			<div class="large-12 columns">
+				<h2>{{ hablan }}</h2>
+			</div>
+			<div class="large-12 columns">
+				<div class="slideshow" style="height: 0; overflow: hidden">
+			      <div class="slide"><img src="/public/images/carousel/gmas.png"></div>
+			      <div class="slide"><img src="/public/images/carousel/america.png"></div>
+			      <div class="slide"><img src="/public/images/carousel/gestion.png"></div>
+			      <div class="slide"><img src="/public/images/carousel/willax.png"></div>
+			    </div>
+			</div>
+		</div>
+	</template>
+	<script>
+	Polymer({
+		is: 'hablan-v2c',
+		properties: {
+			hablan: {
+				type: String,
+				value: 'Hablan de Nosotros'
+			}
+		}
+	});
+	</script>
+</dom-module>
