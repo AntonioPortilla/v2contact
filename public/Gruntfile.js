@@ -38,7 +38,8 @@ module.exports = function(grunt) {
             'css/prod/app.css',
             'bower_components/foundation/css/normalize.css',
             'css/prod/foundation-opt.css',
-            'css/dev/jquery.skidder.css'
+            'css/dev/jquery.skidder.css',
+            'css/modal.css'
           ]
         }
       }
