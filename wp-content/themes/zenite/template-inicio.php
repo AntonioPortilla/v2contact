@@ -14,6 +14,8 @@
 	<link rel="import" href="<?php echo home_url(); ?>/public/elements/elements.html">
 	<link rel="stylesheet" href="<?php echo home_url(); ?>/public/css/main.min.css">
 	<script src="<?php echo home_url(); ?>/public/js/js-head.min.js"></script>
+	<link rel="stylesheet" href="https://service.v2contact.com/chat/css">
+	<script src="https://service.v2contact.com/chat/api-source"></script>
 	<link rel="icon" href="/favicon.ico">
 </head>
 <body>
@@ -70,5 +72,7 @@
 		<a href="#!" class="modal-close" title="Cerrar" data-close="Cerrar"></a>
 	</section>
 </div>
+<div id="v2c_api_chat"><div class="v2c_api_content"></div></div>
+<script src="https://service.v2contact.com/chat/api/37c34c25918ab0bca7f9a8256875be99"></script>
 <script src="<?php echo home_url(); ?>/public/js/main.min.js"></script>
 </body>
