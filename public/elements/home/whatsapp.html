@@ -1,0 +1,51 @@
+<dom-module id="section-whatsapp">
+	<template>
+		<div class="row fila">
+			<div class="large-7 columns">
+				<h3 class="show-for-small">WhatsApp<hr/></h3>
+				<h3 class="hide-for-small">{{ whatsapp }}</h3>
+				<p>
+					Integre el canal de comunicaciones más usado en la actualidad por las personas y comuníquese con sus clientes de una forma más efectiva. <strong>&iexcl; Más de 900 millones de personas estan buscando contactarlo!</strong>
+				</p>
+			</div>
+			<div class="large-5 columns">
+				<img data-interchange="[/public/images/wa-small.png, (only screen and (min-width: 1px))], [/public/images/wa.png, (only screen and (min-width: 960px))]">
+			</div>
+		</div>
+		<div class="row">
+			<div class="large-5 columns">
+				<img data-interchange="[/public/images/autorespondedor-small.png, (only screen and (min-width: 1px))], [/public/images/autorespondedor.png, (only screen and (min-width: 960px))]">
+			</div>
+			<div class="large-7 columns">
+				<h3 class="show-for-small">Auto respondedor multicanal<hr/></h3>
+				<h3 class="hide-for-small">{{ autorrespondedor }} <br>multicanal</h3>
+				<p>
+					<strong>Automatize su estrategia comercial</strong> enviando un mensaje a sus clientes por un canal distinto de comunicación y en automático, todos los días.
+				</p>
+			</div>
+		</div>
+		<div class="ahorre">
+			<div class="row">
+				<div class="large-12">
+					<p>
+						<strong>Ahorre tiempo y esfuerzo</strong>, comunicando un mensaje en automático.
+					</p>
+				</div>
+			</div>
+		</div>
+	</template>
+	<script>
+	Polymer({
+		is: 'section-whatsapp',
+		properties: {
+			type: String,
+			whatsapp: {
+				value: 'WhatsApp'
+			},
+			autorrespondedor: {
+				value: 'Auto respondedor'
+			}
+		}
+	});
+	</script>
+</dom-module>

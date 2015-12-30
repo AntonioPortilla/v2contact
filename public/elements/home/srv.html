@@ -1,41 +1,32 @@
-<dom-module id="servicios-v2c">
+<dom-module id="section-srv">
 	<template>
-		<div class="row">
-			<div class="large-6 columns">
-				<div class="imgAbsolute">
-					<img data-interchange="[/public/images/comunicacion-small.png, (only screen and (min-width: 1px))], [/public/images/comunicacion.png, (only screen and (min-width: 960px))]">
-				</div>
+		<div class="row fila">
+			<div class="medium-4 columns br">
+				<img src="/public/images/call.png" alt="call">
+				<h4>Call Center</h4>
+				<p>
+					Integre un centro de contacto por teléfono que envíe llamadas masivas para contactar clientes, <strong>aumentando la productividad</strong> de su negocio en más de un 200%
+				</p>
 			</div>
-			<div class="large-6 columns">
-				<ul>
-					<li>
-						<h5>{{ com }}</h5>
-						<p>
-							ya sea que sus clientes lo contacten por medio del chat o su número de WhatsApp, usted podrá responder en autonático con mensajes preestablecidos.
-						</p>
-
-		            </li>
-		            <li>
-						<h5>{{ auto }}</h5>
-						<p>
-							Integre y automatice toda la comunicación WhatsApp con sus clientes en un CRM y multiples canales como email, mensajes SMS, llamadas automáticas, audio y video.
-						</p>
-
-		            </li>
-		            <li>
-						<h5>{{ rpta }}</h5>
-						<p>
-							Ahorre tiempo con el envío de respuestas prediseñadas para las preguntas más frecuentes.
-						</p>
-
-		            </li>
-				</ul>
+			<div class="medium-4 columns br">
+				<img src="/public/images/sms2.png" alt="SMS">
+				<h4>SMS</h4>
+				<p>
+					Nuestra plataforma le permite enviar mensajes <strong>SMS de forma ilimitada</strong> a cualquier operador de su pais.
+				</p>
+			</div>
+			<div class="medium-4 columns">
+				<img src="/public/images/crm.png" alt="CRM">
+				<h4>CRM</h4>
+				<p>
+					<strong>Fidelice más a sus clientes</strong> y haga más negocios, nuestro sistema le permite integrar todos los canales de comunicación en un CRM.
+				</p>
 			</div>
 		</div>
 	</template>
 	<script>
 		Polymer({
-			is: 'servicios-v2c',
+			is: 'section-srv',
 			properties: {
 				com:{
 					type: String,

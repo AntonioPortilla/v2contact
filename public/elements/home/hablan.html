@@ -1,22 +1,49 @@
-<dom-module id="hablan-v2c">
+<dom-module id="section-hablan">
 	<template>
 		<div class="row">
 			<div class="large-12 columns">
 				<h2>{{ hablan }}</h2>
 			</div>
 			<div class="large-12 columns">
-				<div class="slideshow" style="height: 0; overflow: hidden">
-			      <div class="slide"><img src="/public/images/carousel/gmas.png"></div>
-			      <div class="slide"><img src="/public/images/carousel/america.png"></div>
-			      <div class="slide"><img src="/public/images/carousel/gestion.png"></div>
-			      <div class="slide"><img src="/public/images/carousel/willax.png"></div>
-			    </div>
+				<div id="Vslider">
+					<a class="buttons prev" href="#">
+						<img src="/public/images/izquierda.png" alt="izquierda">
+					</a>
+					<div class="viewport">
+						<ul class="overview" style="left: 0px; width: 2580px;">
+							<li>
+								<a href="#!" target="_blank" title="El Comercio">
+								<img src="/public/images/carousel/el-comercio.png" alt="El Comercio" title="El Comercio">
+								</a>
+							</li>
+							<li>
+								<img src="/public/images/carousel/gmas.png" alt="Ganamas" title="Ganamas">
+							</li>
+							<li>
+								<a href="https://www.youtube.com/watch?v=pxcP9YNfHSw" target="_blank" title="América">
+								<img src="/public/images/carousel/america.png" alt="América" title="América">
+								</a>
+							</li>
+							<li>
+								<a href="http://m.gestion.pe/movil/impresa/perufon-sepa-como-empresa-peruana-logra-dar-llamadas-gratis-2054508" target="_blank" title="Gestión">
+								<img src="/public/images/carousel/gestion.png" alt="Gestión" title="Gestión">
+								</a>
+							</li>
+							<li>
+								<a href="https://www.youtube.com/watch?v=-wWGyHVfo6Y" target="_blank" title="Willax">
+								<img src="/public/images/carousel/willax.png" alt="Willax" title="Willax">
+								</a>
+							</li>
+						</ul>
+					</div>
+					<a class="buttons next" href="#"><img src="/public/images/derecha.png" alt="derecha"></a>
+				</div>
 			</div>
 		</div>
 	</template>
 	<script>
 	Polymer({
-		is: 'hablan-v2c',
+		is: 'section-hablan',
 		properties: {
 			hablan: {
 				type: String,

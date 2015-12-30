@@ -1,0 +1,39 @@
+<dom-module id="section-business">
+	<template>
+		<h3>
+			"100's de Negocios <strong class="os-bold">Utilizan V2Contact</strong> para <span>{{ clientes }}</span>"
+		</h3>
+		<ul>
+			<li><img src="/public/images/mafre.png" alt="mafre"></li>
+			<li><img src="/public/images/cangre-burguer.png" alt="burguer"></li>
+			<li><img src="/public/images/skotiabank.png" alt="skotiabank"></li>
+		</ul>
+		<div class="row testimonials">
+			<div class="medium-6 columns">
+				<img src="/public/images/alexis.png" alt="Alexis">
+				<p>
+					<strong>Altamente recomendado</strong> para automatizar campañas de marketing digital. V2Contact nos ha permitido alcanzar resultados sorprendentes.
+				</p>
+				<div class="author">Alexis nuñez - Grupo Niza</div>
+			</div>
+			<div class="medium-6 columns">
+				<img src="/public/images/sabrina.png" alt="sabrina">
+				<p>
+					V2contact<strong> es la herramienta perfecta</strong> para fidelizar clientes, así como para automatiza una estrategia de marketing digital.
+				</p>
+				<div class="author">Sabrina Parreira - La curacao</div>
+			</div>
+		</div>
+	</template>
+	<script>
+	Polymer({
+		is: 'section-business',
+		properties: {
+			clientes: {
+				type: String,
+				value: 'contactar más clientes'
+			}
+		}
+	});
+	</script>
+</dom-module>

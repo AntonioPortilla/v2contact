@@ -40,6 +40,14 @@ module.exports = function(grunt) {
             'css/prod/foundation-opt.css',
             'css/dev/jquery.skidder.css',
             'css/modal.css'
+          ],
+          'css/main.min.css':
+          [
+            'css/prod/main.css',
+            'bower_components/foundation/css/normalize.css',
+            'css/prod/foundation-opt.css',
+            'css/dev/sabecarousel.css',
+            'css/dev/modal.css'
           ]
         }
       }
@@ -61,6 +69,13 @@ module.exports = function(grunt) {
             'js/dev/smartresize.js',
             'js/dev/jquery.skidder.js',
             'js/dev/app.js'
+          ],
+          'js/main.min.js':
+          [
+            'bower_components/foundation/js/vendor/jquery.js',
+            'bower_components/foundation/js/foundation.min.js',
+            'js/dev/jquery.sabecarousel.js',
+            'js/dev/main.js'
           ]
         }
       }
@@ -116,11 +131,21 @@ module.exports = function(grunt) {
           loadPath: ['bower_components/foundation/scss']
         },
         files: {
+          'css/prod/main.css': 'scss/main.scss',
           'css/prod/app.css': 'scss/app.scss',
           'css/prod/foundation-opt.css': 'scss/foundation.scss'
         }
       }
-    }
+    },
+	watch: {
+		css: {
+			files: 'scss/**/*.scss',
+			tasks: ['sass'],
+			options: {
+				livereload: true,
+			},
+		},
+	}
 
   });
 
@@ -137,6 +162,7 @@ module.exports = function(grunt) {
   // Default task(s).
   grunt.registerTask('concatenando', ['concat']);
   grunt.registerTask('minify', ['cssmin', 'uglify']);
-  grunt.registerTask('public', ['concatenando', 'sass', 'minify']);
+  grunt.registerTask('anterior', ['concatenando', 'sass', 'minify']);
+  grunt.registerTask('public', ['sass', 'minify', 'watch']);
 
 };

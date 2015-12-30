@@ -23,7 +23,10 @@ __.htaccess
 notas.txt
 api_sunat.php
 prueba.php
+prueba/
+landing/
 index2.php
+*.xlsx
 web
 afiliacion
 afiliados.v2contact

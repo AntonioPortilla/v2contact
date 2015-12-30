@@ -1,20 +1,20 @@
-<dom-module id="search-v2c">
+<dom-module id="section-search">
 	<template>
-		<h3>{{ millones }}</h3>
-		<p>{{ usuarios }} <br><strong>están buscando</strong> contactarlo!</p>
-		<a href="#now" class="button large btn-default">Prueba &iexcl;Sin Costo!</a>
+		<h3>{{ cual }}</h3>
+		<p>{{ next }}</p>
+		<a href="#now" class="button large btn-default">Prueba <strong>&iexcl;Sin Costo!</strong></a>
 	</template>
 	<script>
 		Polymer({
-			is: 'search-v2c',
+			is: 'section-search',
 			properties: {
-				millones: {
+				cual: {
 					type: String,
-					value: '900 millones'
+					value: '¿Cuál es el'
 				},
-				usuarios: {
+				next: {
 					type: String,
-					value: 'de usuarios de WhatsApp'
+					value: 'Siguiente paso?'
 				}
 			}
 		});
