@@ -52,8 +52,11 @@ module.exports = function(grunt) {
         }
       }
     },
-            //'bower_components/foundation/js/vendor/jquery.js',
-            //'bower_components/foundation/js/vendor/jquery.js',
+            // 'bower_components/foundation/js/vendor/jquery.js',
+            // 'bower_components/foundation/js/vendor/jquery.js',
+            // 'js/dev/imagesloaded.js',
+            // 'js/dev/smartresize.js',
+            // 'js/dev/jquery.skidder.js',
     uglify: {
       my_target: {
         files: {
@@ -66,9 +69,7 @@ module.exports = function(grunt) {
           'js/app.min.js':
           [
             'bower_components/foundation/js/foundation.min.js',
-            'js/dev/imagesloaded.js',
-            'js/dev/smartresize.js',
-            'js/dev/jquery.skidder.js',
+            'js/dev/jquery.sabecarousel.js',
             'js/dev/app.js'
           ],
           'js/main.min.js':
