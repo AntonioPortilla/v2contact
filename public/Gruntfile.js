@@ -29,6 +29,7 @@ module.exports = function(grunt) {
             dest: 'js/prod/scripts.js'
         }
     },
+            //'css/dev/jquery.skidder.css',
     cssmin: {
       compress: {
         files: {
@@ -38,7 +39,7 @@ module.exports = function(grunt) {
             'css/prod/app.css',
             'bower_components/foundation/css/normalize.css',
             'css/prod/foundation-opt.css',
-            'css/dev/jquery.skidder.css',
+            'css/dev/sabecarousel.css',
             'css/modal.css'
           ],
           'css/main.min.css':
