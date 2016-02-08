@@ -27,11 +27,13 @@ prueba/
 landing/
 index2.php
 *.xlsx
+.sass-cache
 web
 afiliacion
 afiliados.v2contact
 blog-antiguo-initial
 email-templates-images
+descargas/
 node_modules/
 bower_components/
 dev

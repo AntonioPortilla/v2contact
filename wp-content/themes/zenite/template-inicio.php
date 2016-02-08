@@ -69,7 +69,7 @@
 				</div>
 			</div>
 		</div>
-		<a href="#!" class="modal-close" title="Cerrar" data-close="Cerrar"></a>
+		<a href="#!" class="modal-close" title="Cerrar" data-close="X"></a>
 	</section>
 </div>
 <div id="v2c_api_chat"><div class="v2c_api_content"></div></div>
