@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" >
+<head>
+	<meta charset="utf-8">
+	<!-- If you delete this meta tag World War Z will become a reality -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Ebook - V2Contact</title>
+	<meta name="keywords" content="Ebook, llamadas telefónicas, audios pre-grabados, campañas en tiempo real, Automatización de tareas, impacto">
+	<meta name="description" content="V2Contact :: Llamadas telefónicas automáticas">
+	<meta name="author" content="JALP Laveriano">
+	<link rel="import" href="public/elements/ebook.html">
+	<link rel="stylesheet" href="public/css/main.min.css">
+	<script src="public/js/js-head.min.js"></script>
+	<link rel="stylesheet" href="http://v1.service.v2contact.com/chat/css">
+	<script src="http://v1.service.v2contact.com/chat/api-source"></script>
+	<link rel="icon" href="favicon.ico">
+	<style>
+		@media (min-width: 960px){
+			servicios-v2c .columns:first-child img{
+				top: 115px !important;
+			}
+			colaboradores-v2c .row:last-child {
+			    padding-top: 30px;
+			    padding-bottom: 158px !important;
+			}
+			h2{
+				padding-left: 35px;
+			}
+		}
+		section-whatsapp {
+			background-image: url('public/images/bg-ebook.jpg') !important;
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		section-whatsapp p{
+			font-size: .9em;
+		}
+		body v2c-content section-whatsapp:before {
+			border: none;
+			content: '';
+			height: 0;
+			margin-top: 0;
+			position: initial;
+		}
+		h1.subheader{
+			font: 2em 'Open Sans Regular';
+			text-shadow: initial;
+			color: #4e4e4f !important;
+			text-align: left;
+			margin-top: 0px !important;
+		}
+		h1.subheader span{
+			font-family: 'Open Sans Bold';
+		}
+		h2.e{
+			font: 3.5em 'Open Sans Light';
+			color: #0080b3 !important;
+			margin: 0;
+		}
+		span.a{
+			color: #4e4e4f;
+		}
+		span.m{
+			color: #0080b3;
+		}
+		ul{
+			padding-left: 0;
+			margin-top: 0;
+		}
+		ul>li>div{
+			font-family: 'Open Sans Bold';
+			font-size: 1em;
+		}
+		ul>li{
+			list-style-image: url('/public/images/vi.png');
+			padding-top: 15px;
+			font-size: .9em;
+		}
+		a.button{
+			background: #0080b3 !important;
+			margin: auto;
+			display: table;
+			margin-bottom: 40px;
+			margin-top: 25px;
+		}
+		a.button:hover{
+			background: #0360ac !important;
+			text-decoration: none;
+		}
+		a.button span{
+			color: #fff;
+			font-family: 'Open Sans Bold';
+		}
+		body v2c-content section-hablan {
+			background: url('/public/images/bg-hablan.png') #393939;
+			padding: 25px 0;
+		}
+	</style>
+</head>
+<body>
+<v2c-content>
+	<section-whatsapp></section-whatsapp>
+	<section-hablan></section-hablan>
+</v2c-content>
+
+<div id="v2c_api_chat"><div class="v2c_api_content"></div></div>
+<script src="http://v1.service.v2contact.com/chat/api/37c34c25918ab0bca7f9a8256875be99"></script>
+<script src="public/js/main.min.js"></script>
+</body>
+</html>
