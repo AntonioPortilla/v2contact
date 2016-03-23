@@ -16,16 +16,24 @@
 	<script src="http://v1.service.v2contact.com/chat/api-source"></script>
 	<link rel="icon" href="favicon.ico">
 	<style>
-		@media (min-width: 960px){
-			servicios-v2c .columns:first-child img{
-				top: 115px !important;
-			}
-			colaboradores-v2c .row:last-child {
-			    padding-top: 30px;
-			    padding-bottom: 158px !important;
-			}
+		@media (min-width: 481px){
 			h2{
 				padding-left: 35px;
+			}
+			ul.ebook{
+				padding-left: 0;
+				margin-top: 0;
+			}
+			a.button{
+				background: #0080b3 !important;
+			}
+		}
+		@media (max-width: 480px){
+			a.button {
+				background: #4e4e4f !important;
+			}
+			.formSuscribir {
+				padding-bottom: 1px !important;
 			}
 		}
 		section-whatsapp {
@@ -64,21 +72,16 @@
 		span.m{
 			color: #0080b3;
 		}
-		ul{
-			padding-left: 0;
-			margin-top: 0;
-		}
-		ul>li>div{
+		ul.ebook>li>div{
 			font-family: 'Open Sans Bold';
 			font-size: 1em;
 		}
-		ul>li{
+		ul.ebook>li{
 			list-style-image: url('/public/images/vi.png');
 			padding-top: 15px;
 			font-size: .9em;
 		}
 		a.button{
-			background: #0080b3 !important;
 			margin: auto;
 			display: table;
 			margin-bottom: 40px;
@@ -96,6 +99,9 @@
 			background: url('/public/images/bg-hablan.png') #393939;
 			padding: 25px 0;
 		}
+		body .formSuscribir{
+			padding-bottom: 2px;
+		}
 	</style>
 </head>
 <body>
@@ -103,7 +109,49 @@
 	<section-whatsapp></section-whatsapp>
 	<section-hablan></section-hablan>
 </v2c-content>
-
+<div id="video_principal" class="main" role="main">
+	<section class="semantic-content" id="book" tabindex="-1" role="dialog" aria-labelledby="modal-label-2" aria-hidden="true">
+		<div class="modal-inner">
+			<div class="formSuscribir">
+				<div class="titulo_form">
+					<span class="os-bold">Suscríbase</span> para hacer CRECER su negocio con el Sistema de V2Contact
+				</div>
+				<div class="info_free u-regular">
+					<span class="os-bold">Recibirá una Prueba GRATUITA</span> Así como “Invitación a Talleres Gratuitos de Marketing Digital”
+				</div>
+				<div class="form_v2c">
+					<form method="post" action="http://www.v2contact.com/send/sendForm.php" id="formV2C">
+						<div>
+							<label for="nombre" style="visibility: hidden;">Nombres</label>
+							<input type="text" name="nombre" id="nombre" placeholder="Nombre" required>
+						</div>
+						<div>
+							<label for="nombre" style="visibility: hidden;">Paises</label>
+							<select name="pais" id="country">
+							<option value="per" selected="">Perú</option>
+							<option value="mex">México</option>
+							<option value="chi">Chile</option>
+							<option value="col">Colombia</option>
+							</select>
+						</div>
+						<div>
+							<label for="email" style="visibility: hidden;">E-Mail</label>
+							<input type="email" name="email" id="email" placeholder="Correo Electrónico" required>
+						</div>
+						<div>
+							<label for="nombre" style="visibility: hidden;">Celular</label>
+							<input type="text" name="cel" id="cel" minlength="7" maxlength="11" placeholder="Celular" required>
+						</div>
+						<div class="btn-pruebe" id="sendV2C">
+							<a class="button expand btn-default">Quiero Unirme Ahora!</a>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+		<a href="#!" class="modal-close" title="Cerrar" data-close="X"></a>
+	</section>
+</div>
 <div id="v2c_api_chat"><div class="v2c_api_content"></div></div>
 <script src="http://v1.service.v2contact.com/chat/api/37c34c25918ab0bca7f9a8256875be99"></script>
 <script src="public/js/main.min.js"></script>
