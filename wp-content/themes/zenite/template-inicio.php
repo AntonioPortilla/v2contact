@@ -73,6 +73,6 @@
 	</section>
 </div>
 <div id="v2c_api_chat"><div class="v2c_api_content"></div></div>
-<script src="http://v1.service.v2contact.com/chat/api/37c34c25918ab0bca7f9a8256875be99"></script>
+<script src="http://service.v2contact.com/chat/api/37c34c25918ab0bca7f9a8256875be99"></script>
 <script src="<?php echo home_url(); ?>/public/js/main.min.js"></script>
 </body>
