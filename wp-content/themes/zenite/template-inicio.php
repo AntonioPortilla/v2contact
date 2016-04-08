@@ -8,7 +8,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>El Sistema que le permite contactar más clientes y fidelizarlos por siempre  - V2Contact</title>
-	<meta name="keywords" content="V2Contact, sistema, contactar, clientes">
+	<meta name="keywords" content="negocio, V2Contact, sistema, contactar, clientes">
 	<meta name="description" content="V2Contact :: El Sistema que le permite contactar más clientes">
 	<meta name="author" content="JALP Laveriano">
 	<link rel="import" href="<?php echo home_url(); ?>/public/elements/elements.html">
