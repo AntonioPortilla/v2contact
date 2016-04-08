@@ -14,8 +14,8 @@
 	<link rel="import" href="<?php echo home_url(); ?>/public/elements/elements.html">
 	<link rel="stylesheet" href="<?php echo home_url(); ?>/public/css/main.min.css">
 	<script src="<?php echo home_url(); ?>/public/js/js-head.min.js"></script>
-	<link rel="stylesheet" href="http://v1.service.v2contact.com/chat/css">
-	<script src="http://v1.service.v2contact.com/chat/api-source"></script>
+	<link rel="stylesheet" href="http://service.v2contact.com/chat/css">
+	<script src="http://service.v2contact.com/chat/api-source"></script>
 	<link rel="icon" href="/favicon.ico">
 </head>
 <body>
