@@ -1,4 +1,3 @@
-<pre style="display:none;color:red;background:yellowgreen">probando template</pre>
 <?php
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
@@ -16,3 +15,4 @@ define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
+ echo '<pre style="display:none;color:red;background:yellowgreen">probando template</pre>';

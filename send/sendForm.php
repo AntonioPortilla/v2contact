@@ -84,12 +84,20 @@ if( !empty($_POST) ){
      'grupoID' => 2483,
      'validate' => 'email',
      'contacts' => array(
-       array('name'=>$values['nombre'],'lastname'=>'','email'=>$values['email'],'phone'=>$values['cel'],'opc6'=>$values['pais'],'state'=>'PENDIENTE','confirm'=>'yes')
+       array(
+        'name'=>$values['nombre'],
+        'lastname'=>'',
+        'email'=>$values['email'],
+        'phone'=>$values['cel'],
+        'opc6'=>$values['pais'],
+        'state'=>'PENDIENTE',
+        'confirm'=>'yes'
+        )
       )
     )
   );
 
-  $out2 = shell_exec("curl -A 'V2contact/2.0' -d '".$json_v2contact."' https://service.v2contact.com/rest/actions.php");
+  $out2 = shell_exec("curl -A 'V2contact/2.0' -d '".$json_v2contact."' http://service.v2contact.com/rest/actions.php");
 
   $response = json_decode($out2, true);
 
@@ -100,8 +108,11 @@ if( !empty($_POST) ){
 
   $Mail = new Mailer();
 
+  //$apikey = '2237269debaaa5f4516ac8f1c696f1d8';
   // Set URL for confirm e-mail account
+  //https://app.v2contact.com/api/contactcreate/{apikey}
   $url = 'http://www.v2contact.com/request/sign/?email='.$values['email'].'&key='.base64_encode($response['response'][0]['_id']);
+  //$url = 'https://app.v2contact.com/api/contactcreate/{$apikey}';
 
   $mensaje = '<div><p>Hola <b>' . $values['nombre'] . '</b>,</p>'
           . 'Este mensaje tiene como finalidad el verificar tu direcci&oacute;n de correo electr&oacute;nico para poder registrar sus datos en el sistema. '
@@ -137,7 +148,7 @@ if( !empty($_GET) ){
     )
   );
 
-  $out2 = shell_exec("curl -A 'V2contact/2.0' -d '".$json_v2contact."' https://service.v2contact.com/rest/actions.php");
+  $out2 = shell_exec("curl -A 'V2contact/2.0' -d '".$json_v2contact."' http://service.v2contact.com/rest/actions.php");
 
   $response = json_decode($out2, true);
 
