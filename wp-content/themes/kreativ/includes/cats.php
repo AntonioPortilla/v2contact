@@ -13,7 +13,7 @@
 			<a href="<?php echo home_url(); ?>/contacto/">Contacto</a>
 		</li>
 		<li>
-			<a href="https://service.v2contact.com/" class="mylogin">Login</a>
+			<a href="http://service.v2contact.com" class="mylogin">Login</a>
 		</li>
 	</ul>
 </div>
